@@ -1,0 +1,1023 @@
+CESPE | CEBRASPE – INSS – Aplicação: 2016
+
+•
+
+Cada um dos itens das provas objetivas está vinculado ao comando que imediatamente o antecede. De acordo com o comando a que
+cada um deles esteja vinculado, marque, na Folha de Respostas, para cada item: o campo designado com o código C, caso julgue
+o item CERTO; ou o campo designado com o código E, caso julgue o item ERRADO. A ausência de marcação ou a marcação de
+ambos os campos não serão apenadas, ou seja, não receberão pontuação negativa. Para as devidas marcações, use a Folha de
+Respostas, único documento válido para a correção das suas provas objetivas.
+Nos itens que avaliam conhecimentos de informática, a menos que seja explicitamente informado o contrário, considere que todos os
+programas mencionados estão em configuração-padrão, em português, e que não há restrições de proteção, de funcionamento e de uso em
+relação aos programas, arquivos, diretórios, recursos e equipamentos mencionados .
+Nos itens constituídos pela estrutura Situação hipotética: ... seguida de Assertiva: ..., os dados apresentados como situação hipotética
+devem ser considerados como premissa(s) para o julgamento da assertiva proposta.
+Sempre que utilizadas, as siglas subsequentes devem ser interpretadas de acordo com a significação associada a cada uma delas, da
+seguinte forma: BPC = benefício de prestação continuada; CF = Constituição Federal de 1988; CNAS = Conselho Nacional de
+Assistência Social; DF = Distrito Federal; INPS = Instituto Nacional de Previdência Social; INSS = Instituto Nacional do Seguro
+Social; PNAS = Política Nacional de Assistência Social; RGPS = regime geral de previdência social; SUAS = Sistema Único de
+Assistência Social.
+Eventuais espaços livres — identificados ou não pela expressão “Espaço livre” — que constarem deste caderno de provas poderão
+ser utilizados para anotações, rascunhos etc.
+
+•
+
+•
+•
+
+•
+
+%10*'%+/'0615$5+%15
+No que se refere aos sentidos do texto I, julgue os próximos itens.
+
+Texto I
+1
+
+4
+
+7
+
+Naquele novo apartamento da rua Visconde de Pirajá
+
+
+
+pela primeira vez teria um escritório para trabalhar. Não era um
+
+de seu Joaquim à confecção da estante, tarefa que, segundo ele,
+
+cômodo muito grande, mas dava para armar ali a minha tenda
+
+seria trabalhosa.
+
+de reflexões e leitura: uma escrivaninha, um sofá e os livros.
+
+
+
+seu Joaquim era analfabeto, uma vez que ele “desenhou o
+
+onde caberiam todos os meus livros. Tratei de encomendá-la a
+
+endereço na nota” (R.22).
+
+seu Joaquim, um marceneiro que tinha oficina na rua Garcia
+
+
+
+
+
+quase em frente ao prédio onde morava Mário Pedrosa, entre
+Moraes. Estava ali havia uma semana e nem decorara ainda o
+número do prédio. Tanto que, quando seu Joaquim, ao
+
+Pedrosa.
+
+
+19
+
+
+
+o meu, que fica quase em frente, deve ser 227”. Mas
+
+Julgue os seguintes itens, a respeito de aspectos linguísticos do
+
+lembrei-me de que, ao ir ali pela primeira vez, observara que,
+
+texto I.
+
+apesar de ficar em frente ao do Mário, havia uma diferença na
+
+
+
+lembrei que.
+
+Joaquim desenhou o endereço na nota.
+― Tudo bem, seu Ferreira. Dentro de um mês estará
+
+
+
+do sujeito da oração em que ocorre.
+
+― Um mês, seu Joaquim! Tudo isso? Veja se reduz
+
+
+esse prazo.
+
+
+
+três semanas.
+Ferreira Gullar. A estante. In: A estranha vida banal. Rio
+de Janeiro: José Olympio, 1989 (com adaptações).
+
+Seria mantida a correção do texto caso o trecho “onde
+caberiam” (R.6) fosse substituído por que caberia.
+
+― A estante é grande, dá muito trabalho... Digamos,
+
+%CTIQ6ÃEPKEQFQ5GIWTQ5QEKCN
+
+A forma verbal “teria” (R.2) está flexionada na terceira pessoa
+do singular, para concordar com “apartamento” (R.1), núcleo
+
+lá sua estante.
+
+28
+
+A correção gramatical e o sentido do texto seriam preservados,
+caso se substituísse o trecho “lembrei-me de que” (R.18) por
+
+― Visconde de Pirajá, 127 ― respondi, e seu
+
+25
+
+O verbo dever foi empregado na linha 17 no sentido de ser
+provável.
+
+um momento. Pensei rápido: “Se o prédio do Mário é 228,
+
+numeração.
+
+22
+
+O “momento de hesitação” (R.15) vivido pelo narrador
+deveu-se ao medo de informar o endereço a um desconhecido.
+
+preencher a nota de encomenda, perguntou-me onde seria
+entregue a estante, tive um momento de hesitação. Mas foi só
+
+De acordo com as informações do texto, Vinicius de Moraes
+passou a morar no apartamento onde antes residia Mário
+
+a Farme de Amoedo e a antiga Montenegro, hoje Vinicius de
+
+16
+
+A expressão “armar ali a minha tenda” (R.3) foi empregada no
+texto em sentido figurado.
+
+O apartamento não ficava tão perto da oficina. Era
+
+13
+
+De acordo com as informações do texto, é correto inferir que
+
+Na parede da esquerda ficaria a grande e sonhada estante
+
+D’Ávila com Barão da Torre.
+
+10
+
+O trecho “dá muito trabalho” (R.27) constitui uma referência
+
+No período “Tanto que, quando (...) momento de hesitação”
+(R. 13 a R. 15), o emprego de todas as vírgulas deve-se à mesma
+regra de pontuação.
+
+%#&'401#.)#
+
+ŌŌ
+
+CESPE | CEBRASPE – INSS – Aplicação: 2016
+1
+
+4
+
+7
+
+10
+
+Bibliotecas sempre deram muito o que falar. Grandes
+monarquias jamais deixaram de possuir as suas, e cuidavam
+delas estrategicamente. Afinal, dotes de princesas foram
+negociados tendo livros como objetos de barganha; tratados
+diplomáticos versaram sobre essas coleções. Os monarcas
+portugueses, após o terremoto que dizimou Lisboa, se
+orgulhavam de, a despeito dos destroços, terem erguido uma
+grande biblioteca: a Real Livraria. D. José chamava-a de joia
+maior do tesouro real. D. João VI, mesmo na correria da
+partida para o Brasil, não se esqueceu dos livros. Em três
+diferentes levas, a Real Biblioteca aportou nos trópicos, e foi
+até mesmo tema de disputa.
+
+Acerca do disposto nos Decretos n.º 1.171/1994 e n.º 6.029/2007,
+julgue os itens subsequentes.
+
+
+Embora deva respeitar a hierarquia, o servidor público está
+obrigado a representar contra ações manifestamente ilegais de
+seus superiores hierárquicos.
+
+
+
+O rol de legitimados a provocar a atuação da Comissão de
+Ética Pública, prevista no Decreto n.º 6.029/2007, é restrito a
+agentes públicos, sendo, entretanto, permitido a qualquer
+cidadão provocar a atuação das comissões de ética de que trata
+o Decreto n.º 1.171/1994.
+
+
+
+Em razão da relevância do serviço público prestado, é vitalício
+o mandato de membro integrante da Comissão de Ética
+Pública, o que evita interferências externas na atuação da
+comissão.
+
+Internet: <http://observatoriodaimprensa.com.br> (com adaptações).
+
+Acerca de aspectos linguísticos e dos sentidos do texto acima,
+julgue os itens que se seguem.
+
+
+Princesas e diplomatas eram valorados conforme a qualidade
+das bibliotecas que seus países possuíam e a parcela dos livros
+que estavam dispostos a ceder em negociações diversas.
+
+
+
+A Real Livraria foi erguida com os destroços resultantes do
+terremoto que atingiu Lisboa, como símbolo da força de
+Portugal na superação da tragédia que acabava de assolar o
+país.
+
+
+
+A expressão “essas coleções” (R.5) retoma, por coesão, o termo
+“Bibliotecas” (R.1).
+
+
+
+O sinal de dois-pontos empregado imediatamente após
+“biblioteca” (R.8) introduz um termo de natureza explicativa.
+
+Com base no disposto no Manual de Redação da Presidência da
+República, julgue o próximo item.
+
+
+Considerando que determinado servidor público federal tenha sido
+removido para outra sede, situada em outro município, para
+acompanhar sua esposa, que também é servidora pública federal e
+foi removida no interesse da administração, julgue os itens
+seguintes à luz do disposto na Lei n.º 8.112/1990.
+
+
+Ainda que o servidor e sua esposa sejam integrantes de órgãos
+pertencentes a poderes distintos da União, a remoção do
+servidor poderia ser concedida.
+
+
+
+É correto inferir que houve interesse da administração na
+remoção do servidor, pois esse é um dos requisitos para sua
+concessão.
+
+
+
+A referida remoção pressupõe o deslocamento do cargo
+ocupado pelo servidor para outro órgão ou entidade do mesmo
+poder.
+
+
+
+O período de afastamento do servidor para o deslocamento e
+para a retomada do exercício do cargo no novo município,
+observados os limites legais, é considerado como de efetivo
+exercício.
+
+O trecho seguinte é adequado para compor a parte inicial de
+um memorando.
+Brasília, 2 de fevereiro de 2016.
+À Senhora
+Ana Silva
+INSS
+CEP 70070-946 – Brasília/DF
+Assunto: Curso de aperfeiçoamento em atendimento ao
+público
+
+Bruno, servidor contratado temporariamente para prestar
+serviços a determinado órgão público federal, praticou conduta
+vedada aos servidores públicos pelo Código de Ética Profissional
+do Servidor Público Civil do Poder Executivo Federal.
+
+Julgue os itens subsecutivos conforme o disposto na Lei
+n.º 8.112/1990.
+
+
+Como medida que contribui para a melhoria da qualidade
+de vida do servidor público, é-lhe facultado optar pela
+acumulação de períodos de licença-capacitação, caso não seja
+possível usufruí-los após cada período aquisitivo.
+
+
+
+Em conformidade com a Lei n.º 8.112/1990, o servidor público
+poderá ser afastado do Brasil para missão oficial por tempo
+indeterminado.
+
+Julgue os itens que se seguem, acerca da administração pública.
+
+
+A garantia constitucional de acesso dos usuários a registros
+administrativos e a informações sobre atos de governo está
+relacionada ao princípio da eficiência.
+
+
+
+Na análise da moralidade administrativa, pressuposto de
+validade de todo ato da administração pública, é
+imprescindível avaliar a intenção do agente.
+
+
+
+No cômputo do limite remuneratório (chamado de teto
+constitucional), devem ser consideradas todas as parcelas
+percebidas pelo agente público, incluídas as de caráter
+indenizatório.
+
+
+
+Em decorrência do princípio da impessoalidade, as realizações
+administrativo-governamentais são imputadas ao ente público
+e não ao agente político.
+
+A partir dessa situação hipotética, julgue os itens a seguir à luz do
+disposto nos Decretos n.º 1.171/1994 e n.º 6.029/2007.
+
+
+Se, para a infração praticada por Bruno, estiverem previstas as
+penalidades de advertência ou suspensão, a comissão de ética
+será competente para, após o regular procedimento, aplicar
+diretamente a penalidade.
+
+
+
+Mesmo prestando serviço de natureza temporária, Bruno está
+sujeito às disposições contidas no Decreto n.º 1.171/1994.
+
+
+
+Durante o procedimento de apuração da conduta de Bruno, a
+comissão de ética deverá garantir-lhe proteção à sua honra e à
+sua imagem.
+
+%CTIQ6ÃEPKEQFQ5GIWTQ5QEKCN
+
+%#&'401#.)#
+
+ŌŌ
+
+CESPE | CEBRASPE – INSS – Aplicação: 2016
+
+A respeito dos direitos fundamentais, julgue os itens a seguir.
+
+
+
+
+
+
+Basta que a pessoa nasça no território brasileiro para que
+seja considerada brasileiro nato, independentemente da
+nacionalidade dos seus pais, a não ser que algum deles, ou
+ambos, esteja(m) no Brasil a serviço de seu país.
+O direito à vida desdobra-se na obrigação do Estado de
+garantir à pessoa o direito de continuar viva e de
+proporcionar-lhe condições de vida digna.
+Em decorrência do princípio da igualdade, é vedado ao
+legislador elaborar norma que dê tratamento distinto a pessoas
+diversas.
+
+Julgue os itens a seguir, relativos a raciocínio lógico e operações
+com conjuntos.
+
+
+A sentença “Bruna, acesse a Internet e verifique a data da
+aposentadoria do Sr. Carlos!” é uma proposição composta que
+pode ser escrita na forma p v q.
+
+
+
+Para quaisquer proposições p e q, com valores lógicos
+quaisquer, a condicional p Y (q Y p) será, sempre, uma
+tautologia.
+
+
+
+Caso a proposição simples “Aposentados são idosos”
+tenha valor lógico falso, então o valor lógico da proposição
+“Aposentados são idosos, logo eles devem repousar”
+será falso.
+
+
+
+Dadas as proposições simples p: “Sou aposentado” e
+q: “Nunca faltei ao trabalho”, a proposição composta “Se sou
+
+Julgue os próximos itens, a respeito dos atos administrativos.
+
+
+A autoexecutoriedade é atributo restrito aos atos
+administrativos praticados no exercício do poder de polícia.
+
+
+
+Em decorrência do princípio da autotutela, não há limites para
+o poder da administração de revogar seus próprios atos
+segundo critérios de conveniência e oportunidade.
+O ato praticado por agente não competente para fazê-lo
+poderá ser convalidado discricionariamente pela autoridade
+competente para sua prática, caso em que ficará sanado o vício
+de incompetência.
+
+
+
+aposentado e nunca faltei ao trabalho, então não sou
+aposentado” deverá ser escrita na forma (p v q) Y -p,
+
+usando-se os conectivos lógicos.
+
+
+Se A, B e C forem conjuntos quaisquer tais que A, B d C, então
+(C \ A) 1 (A c B) = C 1 B.
+
+Espaço livre
+
+Julgue os seguintes itens, acerca da concessão de serviço público.
+
+
+A encampação, que consiste em rescisão unilateral da
+concessão pela administração antes do prazo acordado, dá ao
+concessionário o direito a ressarcimento de eventual prejuízo
+por ele comprovado.
+
+
+
+A lei prevê que a concessão de serviço público se dê por
+licitação na modalidade de concorrência, prevendo, ainda,
+hipóteses legais de inexigibilidade de licitação para a
+concessão.
+
+Com relação a informática, julgue os itens que se seguem.
+
+
+
+
+
+
+
+
+
+
+A infecção de um computador por vírus enviado via correio
+eletrônico pode se dar quando se abre arquivo infectado que
+porventura esteja anexado à mensagem eletrônica recebida.
+Na Internet, os endereços IP (Internet Protocol) constituem
+recursos que podem ser utilizados para identificação de
+microcomputadores que acessam a rede.
+Em um texto ou imagem contido em eslaide que esteja em
+edição no programa Libre Office Impress, é possível, por meio
+da opção Hyperlink, criar um link que permita o acesso a uma
+página web.
+Para se editar o cabeçalho de um documento no Writer,
+deve-se clicar o topo da página para abrir o espaço para
+edição. Por limitações técnicas desse editor de textos, não é
+possível colar textos ou imagens nesse espaço.
+A ferramenta OneDrive do Windows 10 é destinada à
+navegação em páginas web por meio de um browser interativo.
+
+Art. 21. A alíquota de contribuição dos segurados
+contribuinte individual e facultativo será de vinte por cento sobre
+o respectivo salário-de-contribuição.
+Considerando o art. 21 da Lei n.º 8.212/1991, acima reproduzido,
+julgue o item seguinte.
+
+
+Se o valor da contribuição de um segurado contribuinte
+individual for superior a R$ 700,00, então o
+salário-de-contribuição desse indivíduo é superior a
+R$ 3.500,00.
+
+%CTIQ6ÃEPKEQFQ5GIWTQ5QEKCN
+
+%#&'401#.)#
+
+ŌŌ
+
+CESPE | CEBRASPE – INSS – Aplicação: 2016
+
+%10*'%+/'0615'52'% (+%15
+No que se refere à seguridade social no Brasil, julgue os itens
+seguintes.
+
+
+A seguridade social é organizada mediante gestão
+quadripartite, com participação dos trabalhadores, dos
+empregadores, dos aposentados e do governo nos órgãos
+colegiados.
+
+
+
+A Lei Eloy Chaves, que criou em cada uma das empresas de
+estradas de ferro existentes no país uma caixa de aposentadoria
+e pensões para os respectivos empregados, foi o primeiro ato
+normativo a tratar de seguridade social no Brasil.
+
+
+
+
+
+
+
+Na década de 30 do século passado, as caixas de aposentadoria
+e pensões foram reunidas nos institutos de aposentadoria e
+pensão, organizados pelo Estado como autarquias federais.
+Em 1966, esses institutos foram transformados no INPS.
+A CF define seguridade social como um conjunto integrado
+de ações de iniciativa dos poderes públicos e da sociedade
+destinadas a assegurar direitos relativos à saúde, à previdência
+e à assistência social.
+De acordo com o princípio da universalidade da seguridade
+social, os estrangeiros no Brasil poderão receber atendimento
+da seguridade social.
+
+Com relação ao segurado especial e ao segurado facultativo, julgue
+os próximos itens à luz do Decreto n.º 3.048/1999.
+
+
+
+
+A respeito da inscrição e da filiação dos segurados obrigatórios e
+facultativos na forma do Decreto n.º 3.048/1999, julgue os itens a
+seguir.
+
+
+
+
+
+
+Com relação ao conteúdo e à autonomia da legislação
+previdenciária, julgue o item abaixo.
+
+
+Lei complementar editada pela União poderá autorizar os
+estados e o DF a legislar sobre questões específicas
+relacionadas à seguridade social.
+
+Com base no disposto na Lei n.º 8.213/1991, julgue os itens a
+seguir, acerca dos segurados do RGPS.
+
+
+
+
+Situação hipotética: Pedro trabalha como professor
+remunerado de uma escola particular e, concomitantemente,
+explora atividade econômica agropecuária em regime de
+economia familiar em uma chácara de dois módulos fiscais.
+Assertiva: Nessa situação, Pedro é segurado obrigatório do
+RGPS em relação a cada uma das atividades realizadas.
+Brasileiro contratado pela Organização das Nações Unidas,
+da qual o Brasil faz parte como membro efetivo, é considerado
+segurado obrigatório do RGPS, mesmo que domiciliado e
+contratado no exterior, salvo se estiver coberto por regime
+próprio de previdência social.
+
+
+
+Pastor evangélico que atue exclusivamente em sua atividade
+religiosa é considerado segurado facultativo do RGPS.
+
+
+
+É considerado segurado obrigatório do RGPS na qualidade de
+contribuinte individual o associado eleito para cargo de direção
+em cooperativa, associação ou entidade de qualquer natureza,
+mesmo que não receba remuneração.
+
+
+
+
+
+Síndica do condomínio predial em que resida e que receba
+como pró-labore a quantia equivalente a um salário mínimo
+será considerada segurada obrigatória do RGPS na qualidade
+de empregada.
+O pescador que exerça essa atividade como principal meio
+de vida é considerado segurado especial mesmo que tenha
+empregados permanentes.
+
+%CTIQ6ÃEPKEQFQ5GIWTQ5QEKCN
+
+Situação hipotética: Maria, com vinte e dois anos de idade,
+recebe bolsa de estudos para se dedicar em tempo integral
+a trabalho de pesquisa, não possuindo qualquer vinculação a
+regime de previdência. Assertiva: Nessa situação, Maria
+poderá filiar-se facultativamente ao RGPS.
+O recebimento de dinheiro decorrente de programa assistencial
+oficial do governo federal descaracteriza a condição de
+segurado especial.
+
+A filiação do segurado obrigatório ao RGPS decorre
+automaticamente do exercício da atividade remunerada.
+Desde que presentes os demais pressupostos da filiação,
+admite-se a inscrição post mortem do segurado especial.
+A filiação ao RGPS na qualidade de segurado facultativo pode
+retroagir, permitindo-se o recolhimento das contribuições
+relativas a competências anteriores à data da inscrição.
+Os dados constantes dos cadastros informatizados da
+previdência social, como o Cadastro Nacional de Informações
+Sociais (CNIS), valem como prova da filiação à
+previdência social, do tempo de contribuição e dos
+salários-de-contribuição, desde que acompanhados de outras
+provas documentais.
+
+Julgue os itens seguintes à luz do Decreto n.º 3.048/1999 e da CF.
+
+
+
+
+
+
+O indivíduo que, não sendo detentor de cargo efetivo, for
+nomeado para um cargo em comissão no âmbito da União não
+será segurado obrigatório do RGPS.
+Situação hipotética: João exerce atividade econômica com
+finalidade lucrativa na sua própria residência. Recentemente,
+ele contratou Maria para fazer a limpeza de sua residência, de
+forma habitual e remunerada, e, inclusive, atender clientes.
+Assertiva: Nessa situação, João será considerado empregador
+doméstico com relação aos serviços prestados por Maria.
+Equiparar-se-á a empresa, para os fins do RGPS, a pessoa
+física que, para fazer uma reforma na própria casa, contratar
+um mestre de obras e um ajudante.
+
+Com relação ao financiamento da seguridade social, julgue os
+seguintes itens.
+
+
+
+
+Em caso de eventuais insuficiências financeiras decorrentes
+do pagamento de benefícios de prestação continuada, a
+previdência social poderá elevar alíquotas das contribuições
+sociais de empregados e empregadores até o limite do débito
+apurado.
+Além da contribuição proveniente de empregados e
+empregadores, são fontes de custeio da seguridade social, de
+forma direta e indireta, os recursos oriundos dos orçamentos
+da União, dos estados, do DF e dos municípios.
+
+Julgue os próximos itens, relativos às contribuições dos segurados
+empregados, dos empregados domésticos e dos segurados
+facultativos.
+
+
+
+
+A alíquota de contribuição, para custeio da seguridade social,
+dos segurados facultativos e dos segurados empregados é a
+mesma e varia segundo o salário-de-contribuição.
+A alíquota de contribuição do empregado doméstico para o
+custeio da seguridade social é inferior à alíquota aplicável aos
+demais empregados.
+
+%#&'401#.)#
+
+ŌŌ
+
+CESPE | CEBRASPE – INSS – Aplicação: 2016
+
+No que se refere à contribuição de empresas e empregadores
+domésticos para o financiamento da seguridade social, julgue os
+itens subsequentes.
+
+
+A contribuição do empregador doméstico é de 20% e incide
+sobre o salário mínimo.
+
+
+
+A contribuição empresarial de associação desportiva que
+mantenha equipe de futebol profissional distingue-se da
+contribuição exigida de outras empresas.
+
+A respeito do custeio da seguridade social, julgue os itens que se
+seguem.
+
+
+Constitui fonte de receita da seguridade social um percentual
+incidente sobre os valores arrecadados com os resultados dos
+leilões de bens apreendidos pela Receita Federal do Brasil.
+
+
+
+Para efeito de custeio dos benefícios da aposentadoria especial
+e dos concedidos em razão do grau de incidência de
+incapacidade laborativa decorrente dos riscos ambientais do
+trabalho, as alíquotas aplicadas incidem exclusivamente sobre
+a remuneração do segurado sujeito a condições especiais que
+lhe prejudiquem a saúde ou a integridade física.
+
+
+
+Parte dos valores arrecadados com concurso de prognósticos
+promovidos por órgãos do poder público ou por sociedades
+comerciais ou civis dentro do território nacional é destinada ao
+custeio da seguridade social.
+
+Em cada um dos próximos itens, é apresentada uma situação
+hipotética acerca de salário-de-contribuição, seguida de uma
+assertiva a ser julgada.
+
+
+Bruna, empregada da empresa Vargas & Vargas Cia. Ltda.,
+entrou em gozo de licença-maternidade. Nessa situação,
+haverá incidência da contribuição previdenciária sobre o valor
+recebido por Bruna a título de salário-maternidade.
+
+
+
+Gustavo inscreveu-se na previdência social na condição de
+segurado facultativo. Nessa situação, o salário-de-contribuição
+de Gustavo deverá variar entre um salário mínimo e o teto
+máximo fixado em portaria interministerial.
+
+
+
+
+
+Zilda mantém vínculo empregatício com a empresa Y e com a
+empresa Z, das quais recebe remuneração mensal equivalente
+a dois e três salários mínimos, respectivamente. Nessa
+situação, a contribuição previdenciária de Zilda deverá incidir
+sobre os valores recebidos de ambos os empregos.
+O contrato de trabalho de Carlos, empregado da empresa
+L & M Ltda., foi rescindido antes que ele pudesse usufruir
+de férias vencidas. Nessa situação, haverá a incidência de
+contribuição previdenciária sobre a importância paga a título
+de indenização das férias vencidas e sobre o respectivo
+adicional constitucional.
+
+A respeito do recolhimento de contribuição previdenciária fora do
+prazo, julgue os itens subsequentes.
+
+
+
+
+Maria, proprietária de uma sorveteria situada em uma
+cidade litorânea, adquiriu, de forma financiada, dois novos freezers
+para seu estabelecimento comercial. Em razão do período de baixa
+temporada, ocorreu considerável queda nas vendas da sorveteria, e
+o seu faturamento tornou-se insuficiente para arcar com todas as
+despesas. Diante dessa situação e visando honrar com o pagamento
+das prestações dos freezers, Maria deixou de repassar à previdência
+social as contribuições previdenciárias recolhidas dos cinco
+funcionários do estabelecimento, no prazo e na forma legal, tendo
+incorrido em crime contra seguridade social.
+Tendo como referência essa situação hipotética e com base nas
+disposições legais a respeito dos crimes contra a seguridade social,
+julgue os próximos itens.
+
+
+
+
+As empresas são obrigadas a arrecadar a contribuição do
+segurado contribuinte individual a seu serviço, descontando-a
+da respectiva remuneração.
+
+
+
+A isenção de contribuição previdenciária concedida às pessoas
+jurídicas de direito privado estende-se aos seus empregados e
+aos trabalhadores avulsos a seu serviço.
+
+
+
+Compete à Receita Federal do Brasil arrecadar e fiscalizar o
+recolhimento das contribuições sociais previstas na CF.
+
+%CTIQ6ÃEPKEQFQ5GIWTQ5QEKCN
+
+Iniciada ação fiscal em desfavor de Maria, o juiz responsável
+pelo processo não poderá deixar de aplicar pena, ainda que
+Maria efetue os pagamentos devidos, seja ré primária e goze de
+bons antecedentes.
+A conduta de Maria configura crime de apropriação indébita
+previdenciária, para o qual a pena prevista é reclusão e multa.
+
+Mateus requereu ao órgão regional do INSS a conversão
+de auxílio-doença em aposentadoria por invalidez. O INSS
+indeferiu o pedido de Mateus por considerar que a doença que o
+acometera era curável, e que, por isso, ele era suscetível de
+reabilitação.
+Acerca dessa situação hipotética e dos recursos nos processos
+administrativos de competência do INSS, julgue os itens que se
+seguem.
+
+
+
+
+Caso seja interposto recurso contra a decisão que indeferiu o
+pedido de Mateus, o órgão regional do INSS que proferiu a
+decisão não poderá reformá-la, devendo encaminhar o recurso
+à instância competente.
+Contra a decisão do INSS pelo indeferimento, Mateus poderá
+interpor recurso administrativo, que será julgado, em primeira
+instância, pela Câmara de Julgamento da Previdência Social.
+
+Com relação a contribuições sociais dos segurados e(ou) a
+decadência e prescrição relativamente a benefícios previdenciários,
+cada um dos próximos itens apresenta uma situação hipotética,
+seguida de uma assertiva a ser julgada.
+
+
+Com referência a arrecadação e recolhimento das contribuições
+destinadas à seguridade social, julgue os itens que se seguem.
+
+
+As contribuições devidas à seguridade social já descontadas
+dos segurados empregados e não recolhidas até seu vencimento
+poderão ser objeto de acordo para pagamento parcelado.
+As contribuições sociais incluídas ou não em notificação fiscal
+de lançamento ou inscritas em dívida ativa que forem pagas
+com atraso estarão sujeitas a atualização monetária, juros de
+mora e multa, a qual varia entre 8% e 20% sobre o crédito
+devido.
+
+
+
+Dagoberto obteve aposentadoria por tempo de contribuição
+concedida pelo INSS em junho de 2012. Entretanto, o INSS
+não efetuou o pagamento do abono anual proporcional do ano
+de 2012 nem o do ano de 2013. Nessa situação, atualmente,
+Dagoberto não mais tem direito a exigir o pagamento dos
+abonos anuais referentes aos anos de 2012 e 2013, visto que
+está prescrito o direito ao percebimento das referidas
+prestações.
+Ronaldo, segurado contribuinte individual da previdência
+social, optou pela contribuição de alíquota reduzida, de 11%,
+que exclui o direito ao benefício de aposentadoria por tempo
+de contribuição. Nessa situação, caso pretenda obter
+aposentadoria por tempo de contribuição, Ronaldo poderá
+fazer a complementação da diferença entre o percentual pago
+e o percentual devido, acrescida de juros moratórios.
+
+%#&'401#.)#
+
+ŌŌ
+
+CESPE | CEBRASPE – INSS – Aplicação: 2016
+
+Julgue os itens seguintes à luz do Decreto n.º 6.214/2007, que
+regulamenta o BPC da assistência social devido à pessoa com
+deficiência e ao idoso.
+
+Com base no disposto na Lei n.o 8.213/1991, que trata dos planos
+de benefícios da previdência social e dá outras providências, julgue
+os itens seguintes.
+
+
+
+Um dos critérios para o idoso habilitar-se à concessão do BPC
+é não possuir outro benefício da seguridade social, excetuados
+o de assistência médica e a pensão especial de natureza
+indenizatória.
+ O valor a ser pago ao beneficiário do BPC é de um salário
+mínimo mensal.
+ É permitido ao beneficiário do BPC acumular o recebimento
+desse benefício com o do seguro-desemprego.
+ O BPC do idoso que se encontre na condição de acolhimento
+de longa permanência em hospital será suspenso até a data da
+sua alta.
+ A idade mínima para que um indivíduo passe a ter direito ao
+BPC do idoso é de sessenta anos.
+ No caso de morte do beneficiário do BPC, seus familiares são
+obrigados a informar tal fato ao INSS, situação em que o
+pagamento do benefício cessará.
+Julgue os próximos itens com base na Lei n.º 8.742/1993, que
+dispõe sobre a organização da assistência social.
+
+
+
+Não é considerada doença do trabalho a doença endêmica
+adquirida por segurado habitante de região em que ela se
+desenvolva, mesmo que essa doença seja resultante de contato
+direto determinado pela natureza do trabalho.
+
+
+
+Equipara-se ao acidente do trabalho o acidente sofrido pelo
+segurado, no local e no horário do trabalho, em consequência
+de desabamento, inundação, incêndio e outros casos fortuitos
+ou decorrentes de força maior.
+
+
+
+Em regra, o período de carência para a concessão do benefício
+de auxílio-doença é de doze contribuições mensais.
+
+
+
+Os princípios que regem a previdência social incluem a
+uniformidade e a equivalência dos benefícios e serviços
+prestados às populações urbanas e rurais.
+
+
+
+Compõem o Conselho Nacional de Previdência Social
+representantes do governo federal e da sociedade civil, a qual
+é representada por aposentados e pensionistas, trabalhadores
+em atividade e empregadores.
+
+
+
+O centro de referência de assistência social (CRAS) é uma
+unidade de base estadual e tem por finalidade atender a
+população de baixa renda e as pessoas que estejam submetidas
+ao cumprimento de pena de reclusão.
+ O centro de referência especializado de assistência social
+(CREAS) constitui unidade que presta serviços a indivíduos e
+famílias que se encontrem em situação de risco pessoal ou
+social decorrente de violação de direitos.
+ A política de assistência social tem como objetivos, entre
+outros, a promoção da integração do cidadão ao mercado de
+trabalho e o amparo às crianças e aos adolescentes carentes.
+ A assistência social organiza-se por meio de um conjunto
+de serviços e programas que são estratificados em ações de
+proteção social básica, ações de proteção social secundária e
+ações de proteção social terciária, sendo essa última
+direcionada para pessoas em situação de violência.
+Em relação às instâncias deliberativas do SUAS, julgue os itens a
+seguir à luz da Lei n.º 8.742/1993.
+
+Com base no disposto no Decreto n.º 3.048/1999, que aprovou o
+regulamento da previdência social, julgue os itens subsecutivos.
+
+
+A dona de casa e o estudante podem filiar-se facultativamente
+ao RGPS mediante contribuição, desde que não estejam
+exercendo atividade remunerada que os enquadre como
+segurados obrigatórios da previdência social.
+
+
+
+A universalidade da cobertura e do atendimento inclui-se entre
+os princípios que regem as ações dos poderes públicos e da
+sociedade destinadas a assegurar o direito relativo à saúde,
+à previdência e à assistência social.
+
+
+
+Aquele que presta serviço de natureza contínua, mediante
+remuneração, a pessoa ou família, no âmbito residencial desta,
+em atividade sem fins lucrativos, é considerado contribuinte
+individual, segurado obrigatório da previdência social.
+
+
+
+Situação hipotética: O CNAS, por decisão da maioria simples
+de seus membros, aprovou a proposição, ao Ministério do
+Planejamento, Orçamento e Gestão, de alteração dos limites de
+repasse mensal dos benefícios previstos em lei. Assertiva:
+Nessa situação, a aprovação da proposição ocorreu em
+conformidade com o que estabelece a Lei n.º 8.742/1993.
+ Os conselhos estaduais de assistência social e os conselhos
+municipais de assistência social, instâncias deliberativas do
+SUAS, têm caráter permanente e composição paritária entre
+governo e sociedade civil.
+ O CNAS, instância responsável pela coordenação da PNAS, é
+presidido alternadamente pelo(a) ministro(a) da previdência
+social e por um representante eleito da sociedade civil, sendo
+de dois anos o mandato do seu presidente, permitida a
+recondução.
+ O CNAS tem caráter paritário: metade dos seus membros são
+representantes governamentais e a outra metade é composta
+por representantes da sociedade civil.
+ Compete ao CNAS aprovar a PNAS, assim como convocar,
+ordinariamente, a cada quatro anos, a conferência nacional de
+assistência social, que terá a atribuição de avaliar a situação da
+assistência social e propor diretrizes para o aperfeiçoamento
+do sistema.
+%CTIQ6ÃEPKEQFQ5GIWTQ5QEKCN
+
+Em fevereiro de 2016, Valdemar, que era empregado pelo
+regime celetista e recebia um salário mínimo de sua empregadora,
+foi demitido e, 30 dias depois, condenado à pena de prisão em
+regime fechado. Ele é casado com Idalina, com quem tem dois
+filhos menores.
+Considerando essa situação hipotética, julgue os itens que se
+seguem, com base nos regramentos previdenciários acerca do
+auxílio-reclusão.
+
+
+Como Valdemar é segurado de baixa renda da previdência
+social, ele e seus dependentes fazem jus ao recebimento do
+valor correspondente ao auxílio-reclusão, que é de um salário
+mínimo, a ser rateado entre eles.
+
+
+
+Assim que terminar de cumprir a pena, Valdemar deixará
+de ser segurado da previdência social.
+
+%#&'401#.)#
+
+ŌŌ
+
+

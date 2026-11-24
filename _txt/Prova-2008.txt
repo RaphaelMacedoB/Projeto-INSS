@@ -1,0 +1,1611 @@
+• De acordo com o comando a que cada um dos itens de 1 a 150 se refira, marque, na folha de respostas, para cada item: o campo
+designado com o código C, caso julgue o item CERTO; ou o campo designado com o código E, caso julgue o item ERRADO.
+A ausência de marcação ou a marcação de ambos os campos não serão apenadas, ou seja, não receberão pontuação negativa. Para as
+devidas marcações, use a folha de respostas, único documento válido para a correção das suas provas.
+• Nos itens que avaliam Noções de Informática, a menos que seja explicitamente informado o contrário, considere que todos os
+programas mencionados estão em configuração-padrão, em português, que o mouse está configurado para pessoas destras e que
+expressões como clicar, clique simples e clique duplo referem-se a cliques com o botão esquerdo do mouse. Considere também que
+não há restrições de proteção, de funcionamento e de uso em relação aos programas, arquivos, diretórios, recursos e equipamentos
+mencionados.
+
+CONHECIMENTOS BÁSICOS
+Como nasce uma história
+(fragmento)
+Quando cheguei ao edifício, tomei o elevador que serve do primeiro ao décimo quarto andar.
+Era pelo menos o que dizia a tabuleta no alto da porta.
+— Sétimo — pedi.
+A porta se fechou e começamos a subir. Minha atenção se fixou num aviso que dizia:
+4
+É expressamente proibido os funcionários, no ato da subida, utilizarem os elevadores para
+descerem.
+Desde o meu tempo de ginásio sei que se trata de problema complicado, este do infinito
+7
+pessoal. Prevaleciam então duas regras mestras que deveriam ser rigorosamente obedecidas. Uma
+afirmava que o sujeito, sendo o mesmo, impedia que o verbo se flexionasse. Da outra infelizmente já
+10 não me lembrava.
+Mas não foi o emprego pouco castiço do infinito pessoal que me intrigou no tal aviso: foi estar
+ele concebido de maneira chocante aos delicados ouvidos de um escritor que se preza.
+Qualquer um, não sendo irremediavelmente burro, entenderia o que se pretende dizer neste
+13
+aviso. Pois um tijolo de burrice me baixou na compreensão, fazendo com que eu ficasse revirando a
+frase na cabeça: descerem, no ato da subida? Que quer dizer isto? E buscava uma forma simples e
+16 correta de formular a proibição:
+É proibido subir para depois descer.
+É proibido subir no elevador com intenção de descer.
+É proibido ficar no elevador com intenção de descer, quando ele estiver subindo.
+19
+Se quiser descer, não tome o elevador que esteja subindo.
+Mais simples ainda:
+Se quiser descer, só tome o elevador que estiver descendo.
+22
+De tanta simplicidade, atingi a síntese perfeita do que Nelson Rodrigues chamava de óbvio
+ululante, ou seja, a enunciação de algo que não quer dizer absolutamente nada:
+Se quiser descer, não suba.
+25
+1
+
+Fernando Sabino. A volta por cima. Rio de Janeiro: Record, 1995, p. 137-140 (com adaptações).
+
+Acerca do gênero textual e das estruturas lingüísticas do texto acima, julgue os itens a seguir.
+1
+
+O sentido do período seria mantido, mas a correção gramatical seria prejudicada, caso se substituísse “atingi a síntese
+perfeita” (5.23) por cheguei à síntese perfeita.
+
+2
+
+O trecho das linhas 5 e 6 pode ser reescrito, com correção gramatical, da seguinte maneira: É expressamente proibido a utilização
+dos elevadores que tiverem subindo pelos funcionários que desejarem descer.
+
+3
+
+A regra gramatical enunciada pelo autor em “Uma afirmava que o sujeito, sendo o mesmo, impedia que o verbo se flexionasse”
+(5.8-9) aplica-se aos verbos subir e descer no seguinte exemplo: Se os funcionários querem subir, não devem descer.
+
+4
+
+O gênero textual apresentado permite o emprego da linguagem coloquial, como ocorre, por exemplo, em “Qualquer um, não sendo
+irremediavelmente burro” (5.13) e “um tijolo de burrice” (5.14).
+
+UnB/CESPE – INSS
+
+Cargo 18: Técnico do Seguro Social
+
+Caderno AZUL
+
+–1–
+
+Um dos indicadores de saúde comumente utilizados no
+Brasil é a esperança de vida ao nascer, que corresponde ao
+número de anos que um indivíduo vai viver, considerando-se a
+duração média da vida dos membros da população. O valor desse
+índice tem sofrido modificações substanciais no decorrer do
+tempo, à medida que as condições sociais melhoram e as
+conquistas da ciência e da tecnologia são colocadas a serviço do
+homem.
+A julgar por estudos procedidos em achados fósseis e em
+sítios arqueológicos, a esperança de vida do homem pré-histórico
+ao nascer seria extremamente baixa, em torno de 18 anos; na
+Grécia e na Roma antigas, estaria entre 20 e 30 anos, pouco tendo
+se modificado na Idade Média e na Renascença. Mais
+recentemente, têm sido registrados valores progressivamente mais
+elevados para a esperança de vida ao nascer. Essa situação está
+ilustrada no gráfico abaixo, que mostra a evolução da esperança
+de vida do brasileiro ao nascer, de 1940 a 2000.
+80,0
+
+Acerca dos princípios da seguridade social, julgue os itens a
+seguir.
+11
+
+O Conselho Nacional da Previdência Social é um dos órgãos
+de deliberação coletiva da estrutura do Ministério da
+Previdência Social, cuja composição, obrigatoriamente, deve
+incluir pessoas indicadas pelo governo, pelos empregadores,
+pelos trabalhadores e pelos aposentados.
+
+12
+
+Um dos objetivos da seguridade social é a universalidade da
+cobertura e do atendimento, meta cumprida em relação à
+assistência social e à saúde, mas não à previdência.
+
+13
+
+A seguridade social, em respeito ao princípio da
+solidariedade, permite a incidência de contribuição
+previdenciária sobre os valores pagos a título de
+aposentadoria e pensão concedidas pelo regime geral de
+previdência social.
+
+Acerca da seguridade social no Brasil, de suas características,
+contribuições e atuação, julgue os itens a seguir.
+14
+
+Em que pesem os inúmeros avanços alcançados após a
+promulgação da Constituição Federal de 1988,
+especialmente com a estruturação do modelo de seguridade
+social, o Brasil mantém, ainda, resquícios de desigualdade,
+que podem ser observados, por exemplo, pela existência de
+benefícios distintos para os trabalhadores urbanos em
+detrimento dos rurais.
+
+15
+
+A seguridade social brasileira, apesar de ser fortemente
+influenciada pelo modelo do Estado do bem-estar social, não
+abrange todas as políticas sociais do Estado brasileiro.
+
+16
+
+A instituição de alíquotas ou bases de cálculos diferentes, em
+razão da atividade econômica ou do porte da empresa, entre
+outras situações, apesar de, aparentemente, infringir o
+princípio tributário da isonomia, de fato atende ao comando
+constitucional da eqüidade na forma de participação no
+custeio da seguridade social.
+
+17
+
+A grande preocupação com os hipossuficientes tem sido
+característica marcante da seguridade social brasileira, como
+pode ser demonstrado pela recente alteração, no texto
+constitucional, de garantias para inclusão dos trabalhadores
+de baixa renda, bem como daqueles que se dediquem,
+exclusivamente, ao trabalho doméstico, sendo-lhes oferecido
+tempo de contribuição, alíquotas e prazos de carência
+inferiores.
+
+70,5
+60,0
+42,0
+40,0
+20,0
+
+0
+1940
+
+1950
+
+1960
+
+1970
+
+1980
+
+1990
+
+2000
+
+M. Z. Rouquayrol e N. de Almeida Filho. In: Epidemiologia e saúde.
+Rio de Janeiro: MEDSI, 2003, p. 68 (com adaptações).
+
+Com base nas informações do texto e considerando os temas a
+que ele se reporta, julgue os itens seguintes.
+5
+
+Se E representa a esperança de vida do brasileiro ao nascer
+e x representa o tempo, em anos, transcorrido desde 1940,
+infere-se das informações apresentadas que, para 0  x  60,
+E(x) = 42x + 70,5.
+
+6
+
+Sabendo-se que, em 1910, a esperança de vida do
+brasileiro ao nascer era de 34 anos, conclui-se que o
+valor desse indicador aumentou em mais de 100% em
+90 anos, isto é, de 1910 a 2000.
+
+7
+
+No Brasil, o fenômeno do aumento da esperança de vida ao
+nascer atinge de maneira uniforme todas as classes sociais,
+pois esse indicador não é influenciado pela renda familiar.
+
+8
+
+Se for mantida, durante o período de 2000-2020, a tendência
+observada, no gráfico mostrado, no período 1980-2000, a
+esperança de vida do brasileiro ao nascer será, em 2020,
+superior a 85 anos.
+
+9
+
+A esperança de vida ao nascer e indicadores de renda e de
+educação compõem o índice de desenvolvimento humano,
+usado para medir a qualidade de vida nos municípios e
+regiões brasileiras e nos diversos países do mundo.
+
+10
+
+O termo “Essa situação”, empregado no último período do
+texto, refere-se exclusivamente à informação prestada no
+penúltimo período.
+
+UnB/CESPE – INSS
+
+Cargo 18: Técnico do Seguro Social
+
+RASCUNHO
+
+Caderno AZUL
+
+–2–
+
+A tabela abaixo mostra, em porcentagens, a distribuição relativa
+da população brasileira por grupos etários, de acordo com dados
+dos censos demográficos de 1940 a 2000.
+
+até 14 anos
+
+15 a 64 anos
+
+65 anos ou mais
+
+1940
+
+42,7
+
+54,9
+
+2,4
+
+1950
+
+41,8
+
+55,6
+
+2,6
+
+1960
+
+42,7
+
+54,6
+
+2,7
+
+1970
+
+42,6
+
+54,3
+
+3,1
+
+1980
+
+38,2
+
+57,8
+
+4,0
+
+1991
+
+34,7
+
+60,5
+
+4,8
+
+2000
+
+29,6
+
+64,6
+
+5,8
+
+IBGE. Censos demográficos de 1940 a 2000.
+
+Com base nos dados acerca da evolução da população brasileira
+apresentados na tabela acima, julgue os itens subseqüentes.
+18
+
+O gráfico a seguir ilustra corretamente as informações
+apresentadas na tabela.
+100
+
+porcentagem
+
+80
+
+60
+
+40
+
+20
+
+0
+
+1940
+
+1950
+
+até 14 anos
+
+1960
+
+1970
+15 a 64 anos
+
+1980
+
+Envelhecimento, pobreza e proteção social
+na América Latina
+O processo de envelhecimento populacional, no seu
+primeiro estágio, resulta em um aumento, pelo menos
+relativo, da oferta da força de trabalho. Nas etapas
+4 posteriores, a proporção desse grupo no total da população
+diminui e, eventualmente, diminuirá em termos absolutos,
+como é a situação atual do Japão e de vários países europeus.
+7 Por outro lado, o segmento com idade avançada passa a ser
+o que mais cresce. Esse crescimento acentuado do segmento
+que demanda maiores recursos monetários e cuidados
+10 humanos, afetivos e psicológicos, em face da redução do
+contingente populacional em idade ativa, fez com que o
+envelhecimento populacional entrasse na agenda das
+13 políticas públicas pelo lado negativo, ou seja, ele é visto
+como “um problema”.
+1
+
+grupos etários
+
+censos
+
+Texto I
+
+1991
+
+2000
+
+65 anos ou mais
+
+A. A. Camarano e M.T. Pasinato. Texto para discussão. Brasília: IPEA, 2007.
+
+Texto II
+
+Os impactos sociais da velhice
+
+IdadeAtiva — No caso da previdência, os idosos são o
+grande problema?
+Ana Amélia Camarano — Eu acho que esse é outro
+4 engano. Claro que você tem mais gente idosa e gente
+vivendo mais. Agora, o que acontece é que o nosso modelo
+de previdência é o mesmo da Europa Ocidental, dos EUA,
+7 modelos desenhados no pós-guerra, quando havia emprego,
+as pessoas se aposentavam e ficavam pouco tempo
+aposentadas porque morriam logo. Então, esse modelo está
+10 falido. Esse cenário mudou. Nós não estamos mais no mundo
+do trabalho estável, não temos mais o pleno emprego e as
+relações de trabalho hoje passam pela flexibilização. E a tão
+13 falada flexibilização significa informalização. A nossa
+política social é toda ligada ao trabalho. A Constituição de
+1988 mudou um pouco, mas até então só tinha direito ao
+uma
+16 benefício da previdência quem trabalhava. Era
+cidadania ligada ao trabalho e, não, ao benefício do
+trabalhador. E isso não é mais possível. Nós estamos
+19 caminhando para um mundo sem trabalho.
+1
+
+Internet: <www.techway.com.br> (com adaptações).
+
+19
+
+Infere-se dos dados da tabela que, de 1940 a 1970, a
+população brasileira apresentava-se distribuída
+uniformemente em relação aos três grupos etários.
+
+20
+
+O envelhecimento da população, representado pela relação
+entre a proporção de idosos (65 anos ou mais) e a proporção
+de crianças (até 14 anos), passou de 10,5%, em 1980, para
+18,2%, em 2000. Essa relação indica que, em 2000, havia
+cerca de 18 idosos para cada 100 crianças.
+
+21
+
+De acordo com os dados apresentados na tabela, os
+percentuais relativos à população brasileira com idade entre
+15 e 64 anos formam uma progressão aritmética de razão
+menor que 1.
+
+22
+
+A população com idade de 65 anos ou mais inclui a chamada
+população economicamente ativa, composta de pessoas
+que estão trabalhando e que, portanto, são os principais
+contribuintes da previdência social.
+
+UnB/CESPE – INSS
+
+Cargo 18: Técnico do Seguro Social
+
+Com relação aos textos I e II, julgue os itens que se seguem.
+23
+
+De acordo com o texto I, é correto afirmar que há países
+europeus em que a força de trabalho, em relação ao total da
+população, já se reduziu.
+24 Se o trecho “mudou um pouco” (texto II, 5.15) for
+substituído por modificou-se pouco, preservam-se as
+relações textuais e o sentido original do texto.
+25 Como os textos tratam da mesma temática, a resposta de Ana
+Amélia Camarano, no texto II, poderia dar continuidade ao
+texto I, sem prejuízo da estrutura textual e respeitando-se a
+linguagem utilizada, desde que a oração “Eu acho que esse
+é outro engano” (5.3-4) fosse substituída por Essa
+percepção, entretanto, revela-se equivocada.
+26 De acordo com o desenvolvimento e a organização das
+idéias do texto I, depreende-se que “segmento que demanda
+maiores recursos monetários e cuidados humanos, afetivos
+e psicológicos” (5.8-10) e “segmento com idade
+avançada” (5.7) referem-se ao mesmo conjunto de
+indivíduos.
+
+Caderno AZUL
+
+–3–
+
+Proposições são sentenças que podem ser julgadas como
+verdadeiras ou falsas, mas não admitem ambos os julgamentos. A esse
+respeito, considere que A represente a proposição simples “É dever do
+servidor apresentar-se ao trabalho com vestimentas adequadas ao
+exercício da função”, e que B represente a proposição simples “É
+permitido ao servidor que presta atendimento ao público solicitar dos
+que o procuram ajuda financeira para realizar o cumprimento de sua
+missão”.
+
+Analise a situação hipotética descrita no item a seguir e, de
+acordo com as regras de redação oficial, julgue a assertiva
+apresentada.
+34
+
+Considerando as proposições A e B acima, julgue os itens
+subseqüentes, com respeito ao Código de Ética Profissional do
+Servidor Público Civil do Poder Executivo Federal e às regras
+inerentes ao raciocínio lógico.
+27
+
+Sabe-se que uma proposição na forma “Ou A ou B” tem valor
+lógico falso quando A e B são ambos falsos; nos demais casos, a
+proposição é verdadeira. Portanto, a proposição composta
+“Ou A ou B”, em que A e B são as proposições referidas acima,
+é verdadeira.
+28 A proposição composta “Se A então B” é necessariamente
+verdadeira.
+29 Represente-se por ¬A a proposição composta que é a negação da
+proposição A, isto é, ¬A é falso quando A é verdadeiro e ¬A é
+verdadeiro quando A é falso. Desse modo, as proposições “Se ¬A
+então ¬B” e “Se A então B” têm valores lógicos iguais.
+Considere a seguinte situação hipotética.
+Natália e sua equipe de servidores do setor de
+comunicação de um ministério foram encarregadas de preparar
+folheto destinado a divulgar as atividades da Comissão de Ética
+Pública (CEP) e de explicar, em particular, as relações entre o
+presidente da República, os ministros de Estado e a referida
+Comissão.
+
+Com relação ao Word 2003 e a outros aplicativos utilizados
+em computadores pessoais, julgue os itens a seguir.
+35
+
+No Word 2003, ao se clicar o menu Editar, é exibida
+uma lista de comandos, entre os quais se inclui o
+comando Dicionário de Sinônimos , que possui
+funcionalidades que permitem ao usuário procurar por
+palavras sinônimas a uma palavra selecionada. O uso
+desse comando contribui, em muitos casos, para a
+melhoria da qualidade de um texto editado.
+
+36
+
+Diversos programas de computador disponibilizam o
+menu denominado Ajuda, por meio do qual um usuário
+pode ter acesso a recursos que lhe permitem obter
+esclarecimentos sobre comandos e funcionalidades dos
+programas. Atualmente, há programas em que é
+necessário que o computador esteja conectado à
+Internet para que funcionalidades do menu Ajuda
+possam ser usadas de forma efetiva.
+
+A partir dessa situação, julgue os próximos itens, de acordo com o
+disposto nos decretos n.os 6.029/2007 e 1.171/1994.
+30
+
+Suponha-se que o folheto preparado pela equipe de Natália
+explicasse que as decisões tomadas pela CEP não precisariam ser,
+necessariamente, seguidas pelo presidente da República, visto
+que a Comissão se caracteriza apenas como um órgão de
+aconselhamento. Nesse caso, a informação do folheto estaria
+correta, pois, em matéria de ética pública, a CEP é, de fato,
+instância consultiva do presidente da República e dos ministros de
+Estado.
+31 Suponha-se ter havido um episódio, largamente noticiado pela
+imprensa, em que a votação de matéria polêmica houvesse
+terminado empatada e o presidente da CEP houvesse
+desempatado em favor de uma das partes. Nessa situação, seria
+correto a equipe de Natália explicar que o presidente da CEP tem
+voto de qualidade nas deliberações do colegiado.
+32 Considere-se que, durante os trabalhos, Natália tenha orientado
+sua equipe para traçar um perfil do público que iria receber o
+folheto e, depois, selecionar diagramas e fotografias adequados
+para esse público. Considere-se, ainda, que um colega da equipe
+tenha argumentado, em conversa com Natália, que a equipe não
+deveria gastar tempo e recursos nessa tarefa, a seu ver
+desnecessária. Nesse caso, a decisão de Natália é a mais
+adequada, pois é dever do servidor público ter cuidado ao tratar
+os usuários do serviço, aperfeiçoando os processos de
+comunicação e contato com o público.
+33 Considere-se que a versão inicial do folheto preparado pela
+equipe de Natália contivesse diagrama no qual a CEP e sua
+Secretaria-Executiva estivessem diretamente ligadas ao ministro
+da Justiça, por ser esse ministério o mais antigo. Nesse caso, o
+folheto deveria ser corrigido, pois a CEP e sua
+Secretaria-Executiva são vinculadas diretamente ao presidente da
+República.
+
+UnB/CESPE – INSS
+
+Cargo 18: Técnico do Seguro Social
+
+Ao participar de uma reunião da CEP, Sônia foi
+encarregada de redigir documento em que registrou os
+nomes do presidente da reunião, dos funcionários
+presentes, dos que foram convocados, mas que estavam
+ausentes, bem como as discussões, propostas, votações
+e deliberações ocorridas nesse encontro, tomando o
+devido cuidado para não rasurar nem emendar esse
+registro. Terminada a reunião, Sônia datou e assinou o
+documento, solicitando aos presentes que também o
+assinassem.
+Nessa situação, conclui-se que o documento redigido
+por Sônia é um relatório.
+
+antes
+
+depois
+Com relação às imagens acima, julgue o item que se segue.
+37
+
+A frase A saúde do povo é objeto de inequívoca
+responsabilidade social constitui título adequado para
+a mudança que, nessas imagens, se expressa.
+
+Caderno AZUL
+
+–4–
+
+Em cada um dos itens a seguir, é apresentada uma situação
+hipotética envolvendo servidores públicos, seguida de uma assertiva
+a ser julgada com base na Lei n.º 8.112/1990.
+38
+
+39
+
+40
+
+41
+
+42
+
+Mara, jornalista, dirigiu-se a determinada repartição pública e
+solicitou, com o objetivo de preparar matéria para o jornal do
+bairro onde trabalha, informações sobre uma lista de itens, que
+incluía dados sobre o efetivo policial e nomes de policiais da
+área de inteligência que trabalham sem uniforme no bairro em
+questão. O servidor atendeu-a rápida e polidamente, mas
+negou-se a fornecer-lhe informações sobre os referidos itens,
+pois tratava-se de dados sigilosos. Nessa situação, a atitude do
+servidor está correta, pois é seu dever atender com presteza ao
+público em geral, prestando as informações requeridas,
+ressalvadas aquelas protegidas por sigilo.
+Joaquim, após demanda judicial, obteve sentença favorável ao
+recebimento de indenização a qual, esperava ele, seria
+incorporada ao seu vencimento. Entretanto, no mês posterior à
+publicação da sentença, verificou, no contracheque, não ter
+havido alteração em seu vencimento. Nessa situação, o setor de
+pagamentos agiu corretamente, pois verbas de natureza
+indenizatória não podem ser incorporadas ao vencimento.
+Decorridos cinco anos de sua posse, Mônica, com o intuito de
+aperfeiçoar sua qualificação profissional, solicitou licença para
+terminar curso de pós-graduação que deixara incompleto. Ao
+receber resposta negativa, Mônica decidiu apresentar recurso,
+alegando que a licença capacitação é direito subjetivo do
+servidor e que, em situações como a sua, é dever da
+administração concedê-la. Nesse caso, a legislação apóia todos
+os argumentos apresentados por Mônica.
+Renato, servidor de órgão público federal e estudante,
+constatou, no início do ano letivo, incompatibilidade entre seu
+horário escolar e o da repartição onde trabalha. Depois de
+explicar sua situação ao chefe, foi por este informado de que
+teria direito a horário especial, desde que compensasse o tempo
+não trabalhado. Renato contra-argumentou dizendo que era
+impossível compensar o tempo de afastamento do trabalho,
+pois, além de assistir às aulas, precisava estudar muito e fazer
+as tarefas escolares. Nessa situação, os argumentos de Renato
+não têm amparo legal.
+Antônio, após ter sido aposentado por invalidez, iniciou
+tratamento que implicou a cura da doença que o afastara do
+serviço público. Após avaliação da junta médica oficial, que
+aprovou seu retorno às atividades das quais se afastara, Antônio
+requereu a readaptação ao cargo ocupado e o cômputo do
+tempo de afastamento para fins de promoção na carreira. Nessa
+situação, os pedidos de Antônio devem ser atendidos, por
+estarem amparados na legislação do servidor público.
+
+Com relação a mensagens de correio eletrônico e a conceitos
+relacionados a Internet e intranet, julgue os itens seguintes.
+43
+
+É comum, mediante o uso de programas de computador que
+utilizam o Windows XP como sistema operacional,
+o recebimento de mensagens de texto por meio de correio
+eletrônico. Entretanto, é possível a realização dessa mesma
+tarefa por meio de programas de computador adequados que
+utilizam o sistema operacional Linux.
+44 Para se enviar uma mensagem confidencial de correio
+eletrônico, cujo conteúdo não deva ser decifrado caso essa
+mensagem seja interceptada antes de chegar ao destinatário, é
+suficiente que o computador a partir do qual a mensagem seja
+enviada tenha, instalados, um programa antivírus e um firewall
+e que esse computador não esteja conectado a uma intranet.
+
+UnB/CESPE – INSS
+
+Cargo 18: Técnico do Seguro Social
+
+Em relação ao Instituto Nacional do Seguro Social, a seu
+histórico e estrutura, julgue os itens a seguir.
+45
+
+As gerências executivas são órgãos descentralizados da
+estrutura administrativa do INSS; entretanto a escolha e
+a nomeação dos gerentes executivos são feitas
+diretamente pelo ministro da Previdência Social sem
+necessidade de observação a critérios especiais de
+seleção.
+
+46
+
+A fusão da Secretaria da Receita Federal com a Secretaria
+da Receita Previdenciária centralizou em apenas um
+órgão a arrecadação da maioria dos tributos federais.
+Contudo, a fiscalização e a arrecadação das contribuições
+sociais destinadas aos chamados terceiros — SESC,
+SENAC, SESI, SENAI e outros — permanecem a cargo
+do INSS.
+
+47
+
+O Instituto Nacional do Seguro Social, autarquia federal
+atualmente vinculada ao Ministério da Previdência Social,
+surgiu, em 1990, como resultado da fusão do Instituto
+Nacional de Assistência Médica da Previdência Social
+(INAMPS) e o Instituto de Administração Financeira da
+Previdência e Assistência Social (IAPAS).
+
+Algumas sentenças são chamadas abertas porque são
+passíveis de interpretação para que possam ser julgadas como
+verdadeiras (V) ou falsas (F). Se a sentença aberta for uma
+expressão da forma ~xP(x), lida como “para todo x, P(x)”, em
+que x é um elemento qualquer de um conjunto U, e P(x) é uma
+propriedade a respeito dos elementos de U, então é preciso
+explicitar U e P para que seja possível fazer o julgamento
+como V ou como F.
+A partir das definições acima, julgue os itens a seguir.
+48
+
+Considere-se que U seja o conjunto dos funcionários do
+INSS, P(x) seja a propriedade “x é funcionário do INSS”
+e Q(x) seja a propriedade “x tem mais de 35 anos de
+idade”. Desse modo, é correto afirmar que duas das
+formas apresentadas na lista abaixo simbolizam a
+proposição Todos os funcionários do INSS têm mais de
+35 anos de idade.
+(i) ~x(se Q(x) então P(x))
+(ii) ~x(P(x) ou Q(x))
+(iii) ~x(se P(x) então Q(x))
+
+49
+
+Se U for o conjunto de todos os funcionários públicos e
+P(x) for a propriedade “x é funcionário do INSS”, então
+é falsa a sentença ~xP(x).
+
+Considere-se que, em uma planilha do Excel 2003 na qual
+todas as células estejam formatadas como números, a célula B2
+contenha o saldo de uma conta de poupança em determinado
+mês do ano. Considere-se, também, que, sobre esse saldo
+incidam juros compostos de 2% ao mês, e que o titular não
+realize, nessa conta, operações de depósito ou retirada. Nessa
+situação, julgue o item seguinte.
+50
+
+O valor do saldo da referida conta de poupança, após duas
+incidências sucessivas de juros sobre o saldo mostrado na
+célula B2, pode ser calculado e apresentado na célula B4
+por meio da seguinte seqüência de ações: clicar a célula
+B4; digitar =B2*1,02^2 e, em seguida, teclar
+
+x.
+Caderno AZUL
+
+–5–
+
+CONHECIMENTOS COMPLEMENTARES
+A qualidade do serviço de atendimento ao público, no
+contexto da realidade brasileira, tanto no âmbito estatal quanto
+no da iniciativa privada, apresenta-se como um desafio
+institucional que parece exigir transformações urgentes. Essa
+necessidade tem múltiplas facetas e a visibilidade de uma
+delas se expressa nas queixas freqüentes de
+usuários-consumidores. Basta visitar os espaços dedicados aos
+leitores dos jornais para encontrar uma fonte empírica
+abundante de reclamações concernentes aos serviços de
+atendimento em instituições públicas e privadas.
+Mário César Ferreira. Serviço de atendimento ao público: o que é?
+Como analisá-lo? Esboço de uma abordagem teórico-metodológica
+em ergonomia. Internet: <www.unb.br> (com adaptações).
+
+Acerca do processo administrativo, julgue os itens subseqüentes.
+59
+
+Suponha-se que Francisca, servidora do INSS, ao atender um
+segurado e receber dele um requerimento de benefícios, tenha
+constatado que ele não havia incluído um item a que tinha
+direito. Suponha-se, ainda, que ela tenha decidido não lhe dizer
+nada a esse respeito. Nessa situação, a atitude de Francisca não
+pode ser reprovada, pois o servidor do INSS pode omitir de
+segurado a existência de direito a verba de benefício que não
+tenha sido explicitamente requerida.
+
+60
+
+Para que sejam efetivas, as funções administrativas de
+planejamento, direção, organização e controle devem ser
+impessoais.
+
+61
+
+Um plano que abranja o procedimento de recepção de
+segurados do INSS e as programações de tempo de espera para
+cada caso, visando à melhoria da qualidade do serviço de
+atendimento, é exemplo de planejamento estratégico.
+
+62
+
+O balanço e o relatório financeiro são exemplos de controle
+estratégico.
+
+Tendo o texto acima como referência inicial, julgue os itens a
+seguir.
+51
+
+52
+
+53
+
+54
+
+55
+
+Uma empresa que, no intuito de melhorar a qualidade do
+serviço de atendimento ao público, encaminhe os clientes
+a setores específicos, em função do tipo de
+produto/serviço que buscam, utiliza uma abordagem de
+departamentalização funcional.
+Um procedimento que pode permitir a identificação de
+fatores críticos de sucesso para o atendimento ao público
+com qualidade é descobrir o que distingue uma
+organização bem-sucedida, no atendimento ao público, de
+uma mal-sucedida, nesse aspecto, e analisar as diferenças
+entre elas.
+O trabalho desenvolvido pelo funcionário na situação de
+atendimento pode ser considerado atividade de mediação
+entre as finalidades da instituição e os objetivos do
+usuário.
+O bom estado de saúde, a competência profissional e o
+perfil adequado do atendente tornam o serviço de
+atendimento mais eficiente e, desse modo, contribuem
+para aumentar a satisfação dos usuários dos produtos ou
+serviços da instituição.
+Uma ação que pode ser efetiva no fomento ao melhor
+atendimento do usuário-consumidor é a descentralização
+da autoridade, visto que esta passa a ficar mais dispersa
+na base da organização, o que possibilita maior agilidade
+no processo decisório.
+
+Acerca de aspectos relacionados à ética e à cidadania, julgue
+os itens que se seguem.
+
+Quem, nos dias de hoje, não teve de enfrentar uma fila no
+banco, em um supermercado, em uma repartição pública? Quantas
+vezes não “roeu as unhas” na expectativa de que a fila andasse
+rápido, pois outro compromisso urgente estava a sua espera? E
+quantos, ao chegar o momento tão esperado do atendimento,
+depararam-se com a informação do funcionário: “O senhor entrou na
+fila errada...”? Mas, se tais situações são fonte de irritação e de
+problemas para o usuário, a cada dia mais exigente, elas o são
+também para os sujeitos encarregados do atendimento ao público.
+Idem. Ibidem (com adaptações).
+
+Tendo o texto acima como referência inicial, julgue os itens
+subseqüentes.
+63
+
+Em virtude da variabilidade de opções, é necessário que o
+servidor que atende ao público seja preponderantemente um
+executor de rotinas, o que envolve identificar situações e seguir
+instruções.
+
+64
+
+A atividade de atendimento implica um conjunto de ações
+rotineiras, que incluem solicitação, identificação, cotejamento,
+pesquisa, registro, emissão, orientação e arquivamento de
+informações.
+
+65
+
+O atendimento ao público pode ser visto como uma atividade
+rotineira complexa de tratamento de informações, marcada por
+procedimentos administrativos habituais, que podem, em muitas
+situações, ser estruturados em raciocínio do tipo Se... (tal
+situação ou evento se apresenta), então... (executa-se tal
+procedimento).
+
+66
+
+No atendimento ao público, o tratamento de informações é
+embasado predominantemente no diagnóstico das exigências da
+situação, com base em critérios prescritos pela instituição, que
+orientam a tomada de decisões.
+
+56
+
+A responsabilidade social de uma corporação restringe-se
+aos funcionários de suas empresas.
+57 Suponha-se que uma empresa tenha conseguido a
+certificação SA 8.000, norma internacional que garante a
+responsabilidade trabalhista. Nesse caso, é correto afirmar
+que esse fato não garante que a empresa seja ética, pois a
+ética não se limita a aspectos isolados da conduta
+empresarial.
+58 Considere-se que uma empresa prestadora de serviços na
+área de turismo e hotelaria tenha incluído, em seu plano
+de expansão, o propósito de contratar pessoas portadoras
+de necessidades especiais e igual proporção de homens e
+mulheres. Nessa situação, ao oferecer igualdade de
+oportunidades de emprego, a empresa demonstra ter
+preocupações éticas.
+
+UnB/CESPE – INSS
+
+Cargo 18: Técnico do Seguro Social
+
+Caderno AZUL
+
+–6–
+
+Julgue os itens seguintes, que versam sobre reforma e
+revitalização do Estado.
+
+Ainda com relação à responsabilidade socioambiental corporativa,
+julgue o item abaixo.
+
+67
+
+Atualmente, o modelo vivenciado pelo Estado brasileiro
+é o da administração pública patrimonialista.
+
+76
+
+68
+
+A reforma do Estado restringe-se ao ajuste fiscal, que
+deverá devolver ao Estado a capacidade de definir e
+implementar políticas públicas.
+
+69
+
+Visando-se ao fortalecimento da regulação coordenada
+pelo Estado, é importante reforçar a governança, que diz
+respeito à maneira pela qual o poder é exercido no
+gerenciamento dos recursos sociais e econômicos de um
+país, e que engloba, desse modo, as técnicas de governo.
+
+70
+
+Um aspecto importante para dar seguimento à reforma do
+Estado é a existência de governabilidade, conceito que
+descreve as condições sistêmicas de exercício do poder
+em um sistema político. Desse modo, é correto afirmar
+que uma nação é governável quando oferece aos seus
+representantes as circunstâncias necessárias para o
+tranqüilo desempenho de suas funções.
+
+Acerca dos direitos dos usuários de serviços públicos, julgue os itens
+subseqüentes.
+77
+
+Considere a seguinte situação hipotética.
+João, por ter constatado erros em sua ficha hospitalar, dirigiu-se
+ao setor de registros do hospital e solicitou ao atendente que lhe
+mostrasse a ficha. Inicialmente, o atendente dificultou-lhe o
+acesso aos dados e, somente depois de muita insistência, João
+conseguiu convencê-lo da necessidade de alterar alguns dados
+no referido documento. Entretanto, passada uma semana, João
+constatou que as alterações solicitadas não haviam sido
+efetuadas.
+Nessa situação, do ponto de vista do Código de Defesa do
+Consumidor, João nada poderá fazer, pois o código é omisso
+com relação a esse tipo de problema.
+
+78
+
+Considere-se que uma empresa de águas e esgotos, em
+procedimento de cobrança de dívida, depois de fazer ameaças
+a um consumidor, decida deixar de recolher parte dos esgotos
+produzidos na moradia desse cidadão. Nessa situação, o
+consumidor pode, com base no Código de Defesa do
+Consumidor, alegar que foi exposto a constrangimento.
+
+Acerca da comunicação institucional, julgue os itens a seguir.
+71
+
+A comunicação institucional utiliza técnicas de relações
+públicas, marketing, publicidade, propaganda e
+jornalismo.
+
+72
+
+A comunicação institucional propõe-se a tornar pública a
+instituição, agregando valores e projetando-a junto ao
+público desejado, com o intuito direto e específico de
+vender os produtos e serviços existentes na organização.
+
+Em relação à responsabilidade socioambiental corporativa,
+julgue os itens seguintes.
+73
+
+Considere-se que uma fábrica de brinquedos tenha
+decidido deixar de produzir um estojo de cosméticos que
+acompanhava bonecas, visando reduzir o risco de que as
+crianças ingerissem ou passassem nos olhos os produtos
+de beleza. Ao tomar essa iniciativa, a indústria
+demonstrou que respeita seus clientes e que não quer
+causar danos a eles.
+
+74
+
+A noção de responsabilidade socioambiental relaciona-se
+ao propósito de maximização dos lucros da corporação,
+que termina por beneficiar a sociedade na forma de
+empregos, salários e impostos, parte dos quais pode ser
+empregada em conservação ambiental.
+
+75
+
+Suponha-se que uma fábrica de roupas tenha distribuído
+um folheto que estimulava seus funcionários a participar,
+em seus dias de descanso, em locais próximos às suas
+moradias, de mutirões comunitários destinados a produzir
+roupas de frio para serem distribuídas para as famílias
+economicamente carentes. Nessa situação, ao interagir
+com a comunidade local e apoiar projetos de inclusão
+social, a fábrica demonstra assumir suas
+responsabilidades com a sociedade.
+
+UnB/CESPE – INSS
+
+Cargo 18: Técnico do Seguro Social
+
+Considere-se que a diretoria de uma empresa, ao receber do
+conselho de acionistas sugestão de criar e divulgar indicadores
+que mostrem o comportamento da empresa em temas
+socioambientais, reaja negativamente, explicando que a
+empresa não teria condições de, sozinha, atender a essa
+demanda e pondere que essas tarefas são de responsabilidade do
+IBGE. Nesse caso, a diretoria tem razão, pois cabe ao IBGE
+monitorar as atividades da empresa e divulgar os indicadores
+que sirvam para descrever sua situação.
+
+O ambiente de trabalho, mesmo com diferentes modelos gerenciais
+de organização, possui riscos inerentes aos processos. Com relação
+a esse tema, cada item a seguir apresenta uma situação hipotética,
+seguida de uma assertiva a ser julgada.
+79
+
+Os empregados que trabalham no escritório de uma grande
+indústria produtora de tintas e solventes têm reclamado,
+constantemente, de forte dor de cabeça e ardência nos olhos,
+durante o expediente. Nessa situação, é correto que a empresa
+providencie, com urgência, a inspeção no sistema de filtros e o
+aperfeiçoamento dos mecanismos de ventilação da sala, de
+modo a melhorar a qualidade do ar no escritório.
+
+80
+
+Cláudio, que trabalha no setor de contabilidade de uma grande
+organização, é responsável pela digitação e montagem de
+processos de licitação para aquisição de bens e serviços. Ele
+tem reclamado, freqüentemente, de fadiga e lombalgia. Nesse
+caso, a condição de Cláudio pode estar relacionada a postura
+inadequada causada por erros ergonômicos do mobiliário do
+setor em que trabalha.
+
+Caderno AZUL
+
+–7–
+
+CONHECIMENTOS ESPECÍFICOS
+Em cada um dos itens subseqüentes, é apresentada uma situação
+hipotética acerca da identificação dos segurados da previdência
+social, seguida de uma assertiva a ser julgada.
+81
+
+Otávio, contador, é aposentado por regime próprio de
+previdência social e começou a prestar serviços de
+contabilidade em sua residência. Dada a qualidade de seus
+serviços, logo foi contratado para dar expediente em uma
+grande empresa da cidade. Nessa situação, Otávio não é
+segurado do regime geral, tanto por ter pertencido a um regime
+próprio, quanto por ser aposentado.
+
+82
+
+Miguel, civil, brasileiro nato que mora há muito tempo na
+Suíça, foi contratado em Genebra para trabalhar na
+Organização Mundial de Saúde. Seu objetivo é trabalhar nessa
+entidade por alguns anos e retornar ao Brasil, razão pela qual
+optou por não se filiar ao regime próprio daquela organização.
+Nessa situação, Miguel é segurado obrigatório da previdência
+social brasileira na qualidade de contribuinte individual.
+
+83
+
+84
+
+85
+
+Claudionor tem uma pequena lavoura de feijão em seu sítio e
+exerce sua atividade rural apenas com o auxílio da família. Dos
+seus filhos, somente Aparecida trabalha fora do sítio. Embora
+ajude diariamente na manutenção da plantação, Aparecida
+também exerce atividade remunerada no grupo escolar próximo
+à propriedade da família. Nessa situação, Claudionor e toda a
+sua família são segurados especiais da previdência social.
+Nelson ocupa cargo em comissão, de livre nomeação e
+exoneração, na Secretaria de Saúde de uma prefeitura que
+instituiu regime próprio de previdência social. Nessa condição,
+apesar de trabalhar em município com regime próprio de
+previdência, Nelson é segurado empregado do regime geral.
+Beatriz trabalha, em Brasília, na sucursal da Organização das
+Nações Unidas e não tem vinculação com regime de
+previdência estrangeiro. Nessa situação, Beatriz é segurada da
+previdência social brasileira na condição de contribuinte
+individual.
+
+Acerca de princípios da seguridade social, julgue os itens a
+seguir.
+91
+
+De acordo com recentes alterações constitucionais, as
+contribuições sociais que financiam a seguridade social
+somente poderão ser exigidas depois de decorridos
+noventa dias da publicação da lei que as houver instituído
+ou modificado. Essas alterações também acrescentaram,
+no que concerne a esse assunto, a exigência da
+anterioridade do exercício financeiro.
+
+92
+
+Pelo fato de serem concedidos independentemente de
+contribuição, os benefícios e serviços prestados na área de
+assistência social prescindem da respectiva fonte de
+custeio prévio.
+
+Em cada um dos itens que se seguem, é apresentada uma
+situação hipotética, seguida de uma assertiva a ser julgada.
+93
+
+Ronaldo, afastado de suas atividades laborais, tem
+recebido auxílio doença. Nessa situação, a condição
+de segurado de Ronaldo será mantida sem limite
+de prazo, enquanto estiver no gozo do benefício,
+independentemente de contribuição para a previdência
+social.
+
+94
+
+Célia, professora de uma universidade, eventualmente,
+presta serviços de consultoria na área de educação. Por
+isso, Célia é segurada empregada pela atividade de
+docência e contribuinte individual quando presta
+consultoria. Nessa situação, Célia tem uma filiação para
+cada atividade.
+
+95
+
+Fernanda foi casada com Lucas, ambos segurados da
+previdência social. Há muito tempo separados, resolveram
+formalizar o divórcio e, pelo fato de ambos trabalharem,
+não foi necessária a prestação de alimentos entre eles.
+Nessa situação, Fernanda e Lucas, após o divórcio,
+deixarão de ser dependentes um do outro junto à
+previdência social.
+
+96
+
+Osvaldo cumpriu pena de reclusão devido à prática de
+crime de fraude contra a empresa em que trabalhava. No
+período em que esteve na empresa, Osvaldo era segurado
+da previdência social. Nessa situação, Osvaldo tem direito
+de continuar como segurado da previdência social por até
+dezoito meses após o seu livramento.
+
+97
+
+Alzira, estudante, filiou-se facultativamente ao regime
+geral de previdência social, passando a contribuir
+regularmente. Em razão de dificuldades financeiras,
+Alzira deixou de efetuar esse recolhimento por oito
+meses. Nessa situação, Alzira não deixou de ser segurada,
+uma vez que a condição de segurado permanece por até
+doze meses após a cessação das contribuições.
+
+Ainda em relação à identificação dos segurados da previdência
+social, julgue os itens a seguir.
+86
+
+Para a previdência social, uma pessoa que administra a
+construção de uma casa, contratando pedreiros e auxiliares para
+edificação da obra, é considerada contribuinte individual.
+
+87
+
+Um síndico de condomínio que resida no condomínio que
+administra e receba remuneração por essa atividade é segurado
+da previdência social na qualidade de empregado.
+
+88
+
+Um cidadão belga que seja domiciliado e contratado no Brasil
+por empresa nacional para trabalhar como engenheiro na
+construção de uma rodovia em Moçambique é segurado da
+previdência social brasileira na qualidade de empregado.
+
+89
+
+Um adolescente de 14 anos de idade, menor aprendiz,
+contratado de acordo com a Lei n.o 10.097/2000, apesar de ter
+menos de 16 anos de idade, que é o piso para inscrição na
+previdência social, é segurado empregado do regime geral.
+
+90
+
+Um tabelião que seja titular do cartório de registro de imóveis
+em determinado município é vinculado ao respectivo regime de
+previdência estadual, pois a atividade que exerce é controlada
+pelo Poder Judiciário.
+
+UnB/CESPE – INSS
+
+Cargo 18: Técnico do Seguro Social
+
+Caderno AZUL
+
+–8–
+
+Em cada um dos itens seguintes, apresenta-se uma situação
+hipotética referente à aplicação do conceito de
+salário-de-contribuição, seguida de uma assertiva a ser julgada.
+
+É apresentada, em cada um dos itens que se seguem, uma situação
+hipotética relacionada a dependentes e a período de carência,
+seguida de uma assertiva a ser julgada.
+
+98
+
+108 Como ficou desempregado por mais de quatro anos, Mauro
+
+Rodrigo trabalha na gerência comercial de uma grande rede
+de supermercados e visita regularmente cada uma das lojas
+da rede. Para atendimento a necessidades do trabalho que faz
+durante as viagens, Rodrigo recebe diárias que excedem,
+todos os meses, 50% de sua remuneração normal.
+Nessa situação, não incide contribuição previdenciária sobre
+os valores recebidos por Rodrigo a título dessas diárias.
+99 Maria, segurada empregada da previdência social,
+encontra-se afastada de suas atividades profissionais devido
+ao nascimento de seu filho, mas recebe salário-maternidade.
+Nessa situação, apesar de ser um benefício previdenciário, o
+salário-maternidade que Maria recebe é considerado
+salário-de-contribuição para efeito de incidência.
+100 Mateus trabalha em uma empresa de informática e recebe o
+vale-transporte junto às demais rubricas que compõem sua
+remuneração, que é devidamente depositada em sua conta
+bancária. Nessa situação, incide contribuição previdenciária
+sobre os valores recebidos por Mateus a título de
+vale-transporte.
+101 Luís é vendedor em uma grande empresa que comercializa
+eletrodomésticos. A título de incentivo, essa empresa oferece
+aos empregados do setor de vendas um plano de previdência
+privada. Nessa situação, incide contribuição previdenciária
+sobre os valores pagos, pela empresa, a título de
+contribuição para a previdência privada, a Luís.
+102 Tendo sido demitido sem justa causa da empresa em que
+trabalhava, Vagner recebeu o aviso prévio indenizado, entre
+outras rubricas. Nessa situação, não incide contribuição
+previdenciária sobre o valor da indenização paga, pela
+empresa, a Vagner.
+103 Claudionor recebe da empresa onde trabalha alguns valores
+a título de décimo-terceiro salário. Nessa situação, os valores
+recebidos por Claudionor não são considerados para efeito
+do cálculo do salário-benefício, integrando-se apenas o
+cálculo do salário-de-contribuição.
+104 A empresa em que Maurício trabalha paga a ele, a cada mês,
+um valor referente à participação nos lucros, que é
+apurado mensalmente. Nessa situação, incide contribuição
+previdenciária sobre o valor recebido mensalmente por
+Maurício a título de participação nos lucros.
+Com relação a período de carência, julgue os itens a seguir.
+105 Se uma empregada doméstica estiver devidamente inscrita na
+
+previdência social, será considerado, para efeito do início da
+contagem do período de carência dessa segurada, o dia em
+que sua carteira de trabalho tenha sido assinada.
+106 Uma profissional liberal que seja segurada contribuinte
+individual da previdência social há três meses e esteja
+grávida de seis meses terá direito ao salário-maternidade,
+caso recolha antecipadamente as sete contribuições que
+faltam para completar a carência.
+107 Uma segurada empregada do regime de previdência social
+que tenha conseguido seu primeiro emprego e, logo na
+primeira semana, sofra um grave acidente que determine seu
+afastamento do trabalho por quatro meses não terá direito ao
+auxílio-doença pelo fato de não ter cumprido a carência de
+doze contribuições.
+
+UnB/CESPE – INSS
+
+Cargo 18: Técnico do Seguro Social
+
+perdeu a qualidade de segurado. Recentemente, conseguiu
+emprego em um supermercado, mas ficou impossibilitado de
+receber o salário-família pelo fato de não poder contar com
+as contribuições anteriores para efeito de contagem do tempo
+de carência, que, para este benefício, é de doze meses. Nessa
+situação, Mauro poderá contar o prazo anterior à perda da
+qualidade de segurado depois de contribuir por quatro meses
+no novo emprego, prazo exigido pela legislação.
+109 Célio, segurado empregado da previdência social, tem um
+filho, com 28 anos de idade, que sofre de doença
+degenerativa em estágio avançado, sendo, portanto, inválido.
+Nessa condição, o filho de Célio é considerado seu
+dependente, mesmo tendo idade superior a dezoito anos.
+110 Paulo é, de forma comprovada, dependente economicamente
+de seu filho, Juliano, que, em viagem a trabalho, sofreu um
+acidente e veio a falecer. Juliano à época do acidente era
+casado com Raquel. Nessa situação, Paulo e Raquel poderão
+requerer o benefício de pensão por morte, que deverá ser
+rateado entre ambos.
+111 César, segurado da previdência social, vive com seus pais e
+com seu irmão, Getúlio, de 15 anos idade. Nessa situação, o
+falecimento de César somente determina o pagamento de
+benefícios previdenciários a seus pais e a seu irmão se estes
+comprovarem dependência econômica com relação a César.
+112 Edson é menor de idade sob guarda de Coutinho, segurado
+da previdência social. Nessa situação, Coutinho não pode
+requerer o pagamento do salário-família em relação a Edson,
+já que este não é seu dependente.
+113 Gilmar, inválido, e Solange são comprovadamente
+dependentes econômicos do filho Gilberto, segurado da
+previdência social, que, por sua vez, tem um filho. Nessa
+situação, Gilmar e Solange concorrem em igualdade de
+condições com o filho de Gilberto para efeito de
+recebimento eventual de benefícios.
+114 Roberto, produtor rural, é segurado especial e não faz
+recolhimento para a previdência social como contribuinte
+individual. Nessa situação, para recebimento dos benefícios
+a que Roberto tem direito, não é necessário o recolhimento
+para a contagem dos prazos de carência, sendo suficiente a
+comprovação da atividade rural por igual período.
+Julgue a assertiva que se segue a cada uma das situações
+hipotéticas referentes ao salário-família apresentadas em cada um
+dos itens subseqüentes.
+115 Carmen é segurada do regime geral da previdência social e
+
+está em gozo de auxílio-doença. Nessa situação, Carmen
+também tem direito de receber o salário-família pago
+diretamente pela previdência social.
+116 Rubens e sua esposa Amélia têm, juntos, dois filhos,
+trabalham e são segurados do regime geral da previdência
+social, além de serem considerados trabalhadores de baixa
+renda. Nessa situação, o salário-família somente será pago a
+um dos cônjuges.
+117 Dalila, que é empregada doméstica e segurada do regime
+geral da previdência social, tem três filhos, mas não recebe
+salário-família. Nessa situação, apesar de ser considerada
+trabalhadora de baixa renda, Dalila não tem o direito de
+receber esse benefício.
+
+Caderno AZUL
+
+–9–
+
+Em cada um dos itens subseqüentes, é apresentada uma situação
+hipotética a respeito da aposentadoria por tempo de
+contribuição, seguida de uma assertiva a ser julgada.
+118 Firmino foi professor do ensino fundamental durante
+
+vinte anos e trabalhou mais doze anos como gerente
+financeiro em uma empresa de exportação. Nessa situação,
+excluindo-se as regras de transição, Firmino pode requerer
+o benefício integral de aposentadoria por tempo de
+contribuição, haja vista a possibilidade de computar o
+tempo em sala de aula em quantidade superior ao
+efetivamente trabalhado, dada a natureza especial da
+prestação de serviço.
+119 Renato era servidor municipal vinculado a regime próprio
+
+de previdência social havia 16 anos, quando resolveu
+trabalhar na iniciativa privada, em 1999. Nessa situação, o
+tempo de serviço prestado por Renato em outro regime é
+contado como tempo de contribuição, desde que haja a
+devida comprovação, certificada pelo ente público
+instituidor do regime próprio.
+120 Durval, inscrito na previdência social na qualidade de
+
+contribuinte individual, trabalha por conta própria,
+recolhendo 11% do valor mínimo mensal do salário de
+contribuição. Nessa situação, para Durval fazer jus ao
+benefício de aposentadoria por tempo de contribuição,
+deverá recolher mais 9% daquele valor, acrescidos de
+juros.
+121 Mário, segurado inscrito na previdência social desde 1972,
+
+requereu sua aposentadoria por tempo de contribuição.
+Nessa situação, a renda inicial da aposentadoria de Mário
+corresponderá à média aritmética simples dos
+salários-de-contribuição desde 1972, multiplicada pelo
+fator previdenciário.
+122 Leonardo, segurado empregado, trabalhou em uma
+
+empresa cujo prédio foi destruído por um incêndio na
+década de 80 do século XX, situação evidenciada por meio
+de registro junto à autoridade policial que acompanhou os
+fatos. Nessa situação, Leonardo poderá comprovar, com
+auxílio de testemunhas, o tempo trabalhado na empresa
+cujo prédio foi destruído, averbando esse período em
+pedido de aposentadoria por tempo de contribuição.
+Em cada um dos próximos itens, é apresentada uma situação
+hipotética a respeito do auxílio-acidente, seguida de uma
+assertiva a ser julgada.
+123 Marcela, empregada doméstica, após ter sofrido grave
+
+acidente enquanto limpava a vidraça da casa de sua patroa,
+recebeu auxílio-doença por três meses. Depois desse
+período, foi comprovadamente constatada a redução de sua
+capacidade laborativa. Nessa situação, Marcela terá direito
+ao auxílio-acidente correspondente a 50% do valor que
+recebia a título de auxílio-doença.
+124 Tomás, segurado empregado do regime geral da
+
+previdência social, teve sua capacidade laborativa reduzida
+por seqüelas decorrentes de grave acidente. Nessa situação,
+se não tiver cumprido a carência de doze meses, Tomás
+não poderá receber o auxílio-acidente.
+
+UnB/CESPE – INSS
+
+Cargo 18: Técnico do Seguro Social
+
+Em cada um dos itens seguintes, é apresentada uma situação
+hipotética acerca do salário-maternidade, seguida de uma assertiva
+a ser julgada.
+125 Rute, professora em uma escola particular, impossibilitada de
+
+ter filhos, adotou gêmeas recém-nascidas cuja mãe falecera
+logo após o parto e que não tinham parentes que pudessem
+cuidar delas. Nessa situação, Rute terá direito a dois
+salários-maternidade.
+126 Helena, grávida de nove meses de seu primeiro filho, trabalha
+em duas empresas de telemarketing. Nessa situação, Helena
+terá direito ao salário-maternidade em relação a cada uma das
+empresas, mesmo que a soma desses valores seja superior ao
+teto dos benefícios da previdência social.
+127 Há oito meses, Edna, profissional liberal, fez sua inscrição na
+previdência social, na qualidade de contribuinte individual,
+passando a recolher regularmente as suas contribuições
+mensais. Dois meses depois da inscrição, descobriu que estava
+grávida de 1 mês, vindo seu filho a nascer, prematuramente,
+com sete meses. Nessa situação, não há nada que impeça Edna
+de receber o salário-maternidade, pois a carência do benefício
+será reduzida na quantidade de meses em que o parto foi
+antecipado.
+128 Cláudia está grávida e exerce atividade rural, sendo segurada
+especial da previdência. Nessa situação, ela tem direito ao
+salário-maternidade desde que comprove o exercício da
+atividade rural nos últimos dez meses imediatamente anteriores
+à data do parto ou do requerimento do benefício, quando
+solicitado antes do parto, mesmo que a atividade tenha sido
+realizada de forma descontínua.
+129 Adriana, segurada da previdência, adotou Paula, uma menina
+de 9 anos de idade. Nessa situação, Adriana não tem direito ao
+salário-maternidade.
+Em cada um dos itens que se seguem, apresenta-se uma situação
+hipotética relacionada à aposentadoria por invalidez, seguida de
+uma assertiva a ser julgada.
+130 Moacir, aposentado por invalidez pelo regime geral de
+
+previdência social, recusa-se a submeter-se a tratamento
+cirúrgico por meio do qual poderá recuperar sua capacidade
+laborativa. Nessa situação, devido à recusa, Moacir terá seu
+benefício cancelado imediatamente.
+131 Daniel, aposentado por invalidez, retornou à sua atividade
+laboral voluntariamente. Nessa situação, o benefício da
+aposentadoria por invalidez será cassado a partir da data desse
+retorno.
+132 Rui sofreu grave acidente que o deixou incapaz para o
+trabalho, não havendo qualquer condição de reabilitação,
+conforme exame médico pericial realizado pela previdência
+social. Nessa situação, Rui não poderá receber imediatamente
+o benefício de aposentadoria por invalidez, pois esta somente
+lhe será concedida após o período de doze meses relativo ao
+auxílio-doença que Rui já esteja recebendo.
+133 Tomé já havia contribuído para a previdência social durante
+28 anos quando foi acometido de uma doença profissional que
+determinou sua aposentadoria por invalidez, após ter recebido
+o auxílio-doença por quatro anos. Nessa situação, depois de
+receber por três anos a aposentadoria por invalidez, Tomé
+poderá requerer a conversão do beneficio em aposentadoria
+por tempo de contribuição.
+134 José perdeu a mão direita em grave acidente ocorrido na
+fábrica em que trabalhava, e, por isso, foi aposentado por
+invalidez. Nessa situação, José não tem o direito de receber o
+adicional de 25% pago aos segurados que necessitam de
+assistência permanente, já que ele pode cuidar de si apenas
+com uma das mãos.
+
+Caderno AZUL
+
+– 10 –
+
+Em cada um dos itens que se seguem, é apresentada uma
+situação hipotética acerca da aposentadoria especial, seguida de
+
+Com relação ao auxílio-doença, julgue os próximos itens.
+
+uma assertiva a ser julgada.
+
+acidente no trajeto de sua casa para o trabalho tem direito ao
+recebimento do auxílio-doença pela previdência social a partir
+do primeiro dia de afastamento do trabalho.
+142 Uma segurada empregada que tenha ficado afastada do serviço
+durante dezoito meses em virtude de um acidente de trabalho
+não pode ser demitida durante os primeiros doze meses após
+seu retorno às atividades laborais.
+143 Uma segurada da previdência que esteja recebendo
+auxílio-doença é obrigada a submeter-se a exame pelo médico
+perito da previdência social e a realizar o processo de
+reabilitação profissional para desenvolver novas competências.
+144 Uma segurada contribuinte individual que tenha sofrido algum
+acidente que tenha determinado sua incapacidade temporária
+para a atividade laboral tem direito a receber auxílio-doença,
+cujo termo inicial deve corresponder à data do início da
+incapacidade, desde que o requerimento seja apresentado junto
+à previdência antes de se esgotar o prazo de 30 dias.
+
+135 Getúlio julga-se na condição de requerer aposentadoria
+
+especial. Nessa situação, ele deverá instruir seu pedido
+com o perfil profissiográfico previdenciário, documento
+emitido pela empresa em que trabalha e embasado no
+laudo técnico das condições ambientais do trabalho que
+comprove as condições para habilitação de benefícios
+previdenciários especiais.
+136 Leandro, segurado da previdência social, recebe adicional
+
+de periculosidade da empresa em que trabalha. Nessa
+situação, a condição de Leandro é suficiente para que ele
+esteja habilitado ao recebimento de aposentadoria especial,
+cujo tempo de contribuição é mitigado.
+
+141 Um segurado empregado do regime geral que tenha sofrido
+
+trabalha, há dez anos, exposto, de forma
+não-ocasional nem intermitente, a agentes químicos
+
+Em cada um dos itens seguintes, é apresentada uma situação
+hipotética acerca do auxílio-reclusão, seguida de uma assertiva a
+ser julgada.
+
+nocivos. Nessa situação, João terá direito a requerer, no
+futuro, aposentadoria especial, sendo-lhe possível, a fim de
+
+145 Fabiano, segurado do regime geral de previdência, encontra-se
+
+137 João
+
+completar a carência, converter tempo comum trabalhado
+anteriormente, isto é, tempo em que não esteve exposto aos
+agentes nocivos, em tempo de contribuição para a
+aposentadoria do tipo especial.
+Em cada um dos itens seguintes, é apresentada uma situação
+hipotética relacionada à pensão por morte, seguida de uma
+assertiva a ser julgada.
+138 Alexandre, caminhoneiro, sempre trabalhou por conta
+
+própria e jamais se inscreveu no regime geral da
+previdência social. Após sofrer um grave acidente,
+resolveu filiar-se à previdência. Seis meses depois, sofreu
+novo acidente e veio a falecer, deixando esposa e três
+filhos. Nessa situação, os filhos e a esposa de Alexandre
+não receberão a pensão por morte pelo fato de não ter sido
+cumprida a carência de doze meses.
+139 Ernani, segurado do regime geral da previdência social,
+
+faleceu, e sua esposa requereu pensão 60 dias após o óbito.
+Nessa situação, esse benefício será iniciado na data do
+requerimento apresentado pela esposa de Ernani, visto que
+o pedido foi feito após o prazo definido pela legislação que
+dá direito a esse benefício.
+140 José tem 20 anos de idade e recebe a pensão decorrente do
+
+falecimento de seu pai, Silas, de quem é filho único. Nessa
+situação, quando José completar a idade de 21 anos, o
+benefício será extinto, haja vista a inexistência de outros
+dependentes da mesma classe.
+
+UnB/CESPE – INSS
+
+Cargo 18: Técnico do Seguro Social
+
+preso e participa de atividades laborais na prisão, fato que lhe
+permite manter suas contribuições para a previdência social na
+qualidade de contribuinte individual. Sua esposa, Catarina,
+recebe auxílio-reclusão, por serem, Fabiano e ela,
+considerados, respectivamente, segurado e dependente de
+baixa renda. Nessa situação, enquanto Catarina receber o
+auxílio-reclusão, Fabiano não terá direito a nenhum tipo de
+aposentadoria nem a auxílio-doença.
+146 Hugo, segurado do regime geral de previdência há menos de
+10 anos, desempregado há seis meses, envolveu-se em
+atividades ilícitas, o que determinou sua prisão em flagrante.
+Nessa condição, caso Hugo seja casado, sua esposa faz jus ao
+auxílio-reclusão junto à previdência social.
+Em cada um dos itens subseqüentes, é apresentada uma situação
+hipotética que trata de cumulação de benefícios, seguida de uma
+assertiva a ser julgada.
+147 Pedro recebe auxílio-acidente decorrente da consolidação de
+
+lesões que o deixaram com seqüelas definitivas. Nessa
+condição, Pedro não poderá cumular o benefício que
+atualmente recebe com o de aposentadoria por invalidez que
+eventualmente venha a receber.
+148 Tereza encontra-se afastada de suas atividades laborais e
+recebe o auxílio-doença. Nessa situação, caso engravide e
+tenha um filho, Tereza não poderá receber, ao mesmo tempo,
+o auxílio-doença e o salário-maternidade.
+149 Sofia, pensionista da previdência social em decorrência da
+morte de seu primeiro marido, João, resolveu casar-se com
+Eduardo, segurado empregado. Seis meses após o casamento,
+Eduardo faleceu em trágico acidente. Nessa situação, Sofia
+poderá acumular as duas pensões, caso o total recebido não
+ultrapasse o teto determinado pela previdência social.
+150 Fábio recebe auxílio-acidente decorrente da consolidação de
+lesões que o deixaram com seqüelas definitivas. Nessa
+situação, Fábio poderá cumular o benefício que atualmente
+recebe com o auxílio-doença decorrente de outro evento.
+
+Caderno AZUL
+
+– 11 –
+
+

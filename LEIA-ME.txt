@@ -1,0 +1,19 @@
+Simulados INSS - Técnico do Seguro Social (Cebraspe)
+
+COMO USAR
+1. Abra "simulados-inss.html" no navegador (Chrome ou Edge). Não precisa de internet.
+2. Mantenha os PDFs das provas na mesma pasta do HTML. Os links "Abrir PDF na página N" dependem disso.
+3. O histórico e o simulado em andamento ficam salvos no próprio navegador.
+4. Os links de vídeo-aula (busca no YouTube) e de estudo (leis no Planalto ou resumo) precisam de internet.
+
+PROVAS INCLUÍDAS
+- 2022 (Cebraspe): 120 itens, gabarito definitivo (8 anulados)
+- 2016 (Cespe/Cebraspe, Caderno ALGA): 120 itens (5 anulados)
+- 2008 (Cespe/UnB, Caderno AZUL): 150 itens (2 anulados)
+
+PARA ATUALIZAR OU INCLUIR PROVAS (Python 3 + pdfplumber)
+  python parse.py <prova.pdf> <primeiro_item> <ultimo_item> <saida.json> [cid]
+  python gab.py
+  python build.py
+  Depois, substitua /*DATA*/ em template.html pelo conteúdo de data.json.
+Observação: as questões que têm figura ou tabela mostram um aviso com um link para a página do PDF original.

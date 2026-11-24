@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Simulados INSS – Técnico do Seguro Social</title>
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--ink:#1d2330;--mute:#677085;--line:#e3e6ec;--pri:#1f5fbf;--ok:#1f8a4c;--bad:#c0392b;--warn:#b7791f;--blank:#8a93a6}
+*{box-sizing:border-box}body{margin:0;font:16px/1.55 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;background:var(--bg);color:var(--ink)}
+header{background:#14325f;color:#fff;padding:14px 20px;display:flex;align-items:center;gap:16px;flex-wrap:wrap}
+header h1{font-size:18px;margin:0;font-weight:650}header .sp{flex:1}header button{background:transparent;border:1px solid #ffffff55;color:#fff}
+main{max-width:980px;margin:0 auto;padding:20px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:18px 20px;margin-bottom:16px}
+h2{font-size:20px;margin:0 0 12px}h3{font-size:16px;margin:16px 0 8px}
+button{font:inherit;cursor:pointer;border-radius:8px;border:1px solid var(--line);background:#fff;padding:8px 14px}
+button.pri{background:var(--pri);border-color:var(--pri);color:#fff}button:disabled{opacity:.5;cursor:default}
+.row{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.exams{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:12px}
+.exam{border:2px solid var(--line);border-radius:10px;padding:14px;cursor:pointer;background:#fff;text-align:left}
+.exam.sel{border-color:var(--pri);background:#eef4ff}.exam b{display:block;font-size:17px}.exam span{color:var(--mute);font-size:14px}
+.chips{display:flex;flex-wrap:wrap;gap:8px}.chip{display:flex;gap:6px;align-items:center;border:1px solid var(--line);border-radius:20px;padding:4px 12px;font-size:14px;background:#fff}
+.ctx{white-space:pre-wrap;background:#f8f9fb;border-left:3px solid #c9d3e4;padding:10px 14px;font-size:15px;max-height:340px;overflow:auto;border-radius:4px}
+.enun{white-space:pre-wrap;font-size:17px;margin:14px 0}
+.meta{color:var(--mute);font-size:14px}.tag{display:inline-block;background:#eef1f6;border-radius:4px;padding:1px 8px;font-size:13px;color:#3b4560;margin-right:6px}
+.ans{display:flex;gap:10px;margin:10px 0}.ans button{flex:1;padding:12px;font-weight:600;font-size:16px}
+.ans .c.on{background:var(--ok);color:#fff;border-color:var(--ok)}.ans .e.on{background:var(--bad);color:#fff;border-color:var(--bad)}.ans .b.on{background:var(--blank);color:#fff;border-color:var(--blank)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(38px,1fr));gap:5px}
+.grid button{padding:5px 0;font-size:13px}.grid .cur{outline:2px solid var(--pri)}.grid .a{background:#dde8fb}.grid .ok{background:#d6f0df}.grid .bad{background:#f6d5d1}.grid .x{background:#eee;color:#999}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:10px}
+.stat{border:1px solid var(--line);border-radius:10px;padding:12px;text-align:center;background:#fff}.stat b{display:block;font-size:28px}
+.stat.ok b{color:var(--ok)}.stat.bad b{color:var(--bad)}.stat.bl b{color:var(--blank)}
+table{width:100%;border-collapse:collapse;font-size:14px}th,td{padding:7px 8px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}th{color:var(--mute);font-weight:600}
+.bar{height:8px;background:#eee;border-radius:4px;overflow:hidden;min-width:80px}.bar i{display:block;height:100%;background:var(--ok)}
+.qres{border:1px solid var(--line);border-radius:10px;padding:12px 14px;margin-bottom:10px;background:#fff}
+.qres.bad{border-left:4px solid var(--bad)}.qres.ok{border-left:4px solid var(--ok)}.qres.bl{border-left:4px solid var(--blank)}
+.links a{display:inline-block;margin:6px 10px 0 0;font-size:14px;text-decoration:none;border:1px solid var(--line);border-radius:6px;padding:4px 10px;color:var(--pri);background:#fff}
+.links a:hover{background:#eef4ff}
+.warn{background:#fff7e6;border:1px solid #f0d9a8;color:#7a5410;padding:8px 12px;border-radius:6px;font-size:14px;margin:8px 0}
+details summary{cursor:pointer;color:var(--pri);font-size:14px}
+.hide{display:none}.timer{font-variant-numeric:tabular-nums}
+@media(max-width:600px){main{padding:10px}.card{padding:14px}}
+</style>
+</head>
+<body>
+<header><h1>Simulados INSS · Técnico do Seguro Social (Cebraspe)</h1><div class="sp"></div><span id="hdr" class="timer"></span><button onclick="goHome()">Início</button></header>
+<main id="app"></main>
+<script>
+const DATA = /*DATA*/;
+const $ = s => document.querySelector(s);
+const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const store = { get(k, d) { try { const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; } catch (e) { return d; } },
+                set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} } };
+let S = null, tick = null, selExam = '2022', imediata = false;
+
+function exam(id) { return DATA.exams.find(e => e.id === id); }
+function discs(id) { return [...new Set(exam(id).q.map(q => q.disc))]; }
+function fmt(sec) { const m = Math.floor(sec / 60), s = sec % 60; return `${String(Math.floor(m/60)).padStart(2,'0')}:${String(m%60).padStart(2,'0')}:${String(s).padStart(2,'0')}`; }
+
+function goHome() {
+  clearInterval(tick); $('#hdr').textContent = '';
+  const saved = store.get('inss_atual', null), hist = store.get('inss_hist', []);
+  const e = exam(selExam);
+  $('#app').innerHTML = `
+  ${saved ? `<div class="card"><b>Você tem um simulado em andamento</b> (${esc(saved.titulo)}, ${Object.keys(saved.resp).length} de ${saved.ids.length} respondidas).
+    <div class="row" style="margin-top:10px"><button class="pri" onclick="resume()">Continuar</button><button onclick="store.set('inss_atual',null);goHome()">Descartar</button></div></div>` : ''}
+  <div class="card"><h2>1. Escolha a prova</h2><div class="exams">
+    ${DATA.exams.map(x => `<button class="exam ${x.id===selExam?'sel':''}" onclick="selExam='${x.id}';goHome()"><b>${x.id}</b><span>${esc(x.titulo)}<br>${x.q.length} itens (Certo/Errado)</span></button>`).join('')}
+  </div></div>
+  <div class="card"><h2>2. Disciplinas</h2>
+    <div class="row" style="margin-bottom:8px"><button onclick="document.querySelectorAll('.dsc').forEach(c=>c.checked=true)">Todas</button><button onclick="document.querySelectorAll('.dsc').forEach(c=>c.checked=false)">Nenhuma</button></div>
+    <div class="chips">${discs(selExam).map(d => `<label class="chip"><input type="checkbox" class="dsc" value="${esc(d)}" checked> ${esc(d)} <span class="meta">(${e.q.filter(q=>q.disc===d).length})</span></label>`).join('')}</div>
+  </div>
+  <div class="card"><h2>3. Opções</h2>
+    <label class="chip" style="display:inline-flex"><input type="checkbox" id="shuf"> Embaralhar a ordem dos itens</label>
+    <label class="chip" style="display:inline-flex"><input type="checkbox" id="imed"> Mostrar a correção logo após cada resposta</label>
+    <p class="meta">Correção no padrão Cebraspe: cada acerto vale +1, cada erro vale −1, e item em branco vale 0. Itens anulados pela banca aparecem, mas ficam fora da nota.</p>
+    <button class="pri" onclick="start()">Iniciar simulado</button>
+  </div>
+  ${hist.length ? `<div class="card"><h2>Histórico</h2><table><tr><th>Data</th><th>Prova</th><th>Itens</th><th>Acertos</th><th>Erros</th><th>Brancos</th><th>Nota líquida</th><th></th></tr>
+    ${hist.slice().reverse().map((h,i) => `<tr><td>${new Date(h.data).toLocaleString('pt-BR')}</td><td>${esc(h.titulo)}</td><td>${h.total}</td><td style="color:var(--ok)">${h.ac}</td><td style="color:var(--bad)">${h.er}</td><td>${h.br}</td><td><b>${h.nota}</b></td><td><button onclick="showResult(${hist.length-1-i})">Ver</button></td></tr>`).join('')}
+  </table><div class="row" style="margin-top:10px"><button onclick="if(confirm('Apagar todo o histórico?')){store.set('inss_hist',[]);goHome()}">Limpar histórico</button></div></div>` : ''}`;
+}
+
+function start(ids, titulo) {
+  const e = exam(selExam);
+  if (!ids) {
+    const ds = [...document.querySelectorAll('.dsc:checked')].map(c => c.value);
+    ids = e.q.filter(q => ds.includes(q.disc)).map(q => q.n);
+    if (!ids.length) return alert('Selecione ao menos uma disciplina.');
+    if ($('#shuf').checked) ids.sort(() => Math.random() - .5);
+    imediata = $('#imed').checked;
+  }
+  S = { exam: selExam, titulo: titulo || e.titulo, ids, resp: {}, i: 0, t0: Date.now(), elapsed: 0, imediata };
+  save(); runQuiz();
+}
+function resume() { S = store.get('inss_atual', null); if (!S) return goHome(); selExam = S.exam; S.t0 = Date.now() - S.elapsed * 1000; runQuiz(); }
+function save() { if (S) { S.elapsed = Math.floor((Date.now() - S.t0) / 1000); store.set('inss_atual', S); } }
+function runQuiz() { clearInterval(tick); tick = setInterval(() => { $('#hdr').textContent = '⏱ ' + fmt(Math.floor((Date.now() - S.t0) / 1000)); }, 1000); renderQ(); }
+function Q(n) { return exam(S.exam).q.find(q => q.n === n); }
+
+function renderQ() {
+  const n = S.ids[S.i], q = Q(n), r = S.resp[n], ctx = DATA.ctx[q.c];
+  const shown = S.imediata && r;
+  const verd = shown ? judge(q, r) : null;
+  $('#app').innerHTML = `
+  <div class="card">
+    <div class="row meta"><span>Item ${S.i + 1} de ${S.ids.length}</span><span class="tag">Questão ${q.n}</span><span class="tag">${esc(q.disc)}</span>${q.assunto ? `<span class="tag">${esc(q.assunto)}</span>` : ''}</div>
+    ${ctx ? `<div class="ctx" style="margin-top:10px">${esc(ctx)}</div>` : ''}
+    ${q.fig ? `<div class="warn">Esta questão pode depender de figura, tabela ou imagem. <a href="${esc(q.pdf)}#page=${q.page}" target="_blank">Abrir a página ${q.page} do PDF original</a> (o PDF precisa estar na mesma pasta do app).</div>` : ''}
+    <div class="enun">${esc(q.enun)}</div>
+    <div class="ans">
+      <button class="c ${r==='C'?'on':''}" onclick="answer('C')">Certo</button>
+      <button class="e ${r==='E'?'on':''}" onclick="answer('E')">Errado</button>
+      <button class="b ${r==='B'?'on':''}" onclick="answer('B')">Em branco</button>
+    </div>
+    ${shown ? feedback(q, r, verd) : ''}
+    <div class="row" style="margin-top:12px"><button onclick="nav(-1)" ${S.i===0?'disabled':''}>← Anterior</button><button onclick="nav(1)" ${S.i===S.ids.length-1?'disabled':''}>Próxima →</button><span style="flex:1"></span>
+      <a class="meta" href="${esc(q.pdf)}#page=${q.page}" target="_blank">PDF p. ${q.page}</a>
+      <button class="pri" onclick="finish()">Finalizar e corrigir</button></div>
+  </div>
+  <div class="card"><div class="meta" style="margin-bottom:8px">${Object.keys(S.resp).length} respondidas · clique num número para ir ao item</div><div class="grid">
+    ${S.ids.map((m, k) => { const rr = S.resp[m]; let cl = rr ? 'a' : ''; if (S.imediata && rr) cl = {ok:'ok',bad:'bad',bl:'',x:'x'}[judge(Q(m), rr)]; return `<button class="${cl} ${k===S.i?'cur':''}" onclick="S.i=${k};save();renderQ()">${m}</button>`; }).join('')}
+  </div></div>`;
+}
+function judge(q, r) { if (q.gab === 'X') return 'x'; if (!r || r === 'B') return 'bl'; return r === q.gab ? 'ok' : 'bad'; }
+function feedback(q, r, v) {
+  const g = q.gab === 'X' ? 'ANULADO' : (q.gab === 'C' ? 'CERTO' : 'ERRADO');
+  const t = {ok:'✔ Você acertou', bad:'✘ Você errou', bl:'Em branco', x:'Item anulado pela banca'}[v];
+  return `<div class="qres ${v==='x'?'':v}" style="margin-top:8px"><b>${t}</b>. Gabarito definitivo: <b>${g}</b>${v==='bad'||v==='bl' ? links(q) : ''}</div>`;
+}
+function links(q) { return `<div class="links"><a href="${esc(q.video)}" target="_blank">▶ Vídeo-aula sobre o assunto</a><a href="${esc(q.estudo.url)}" target="_blank">📘 Estudar: ${esc(q.estudo.nome)}</a></div>`; }
+function answer(a) { const n = S.ids[S.i]; if (S.imediata && S.resp[n] && S.resp[n] !== a && !confirm('Trocar a resposta já corrigida?')) return; S.resp[n] = a; save(); if (!S.imediata && S.i < S.ids.length - 1) S.i++; save(); renderQ(); }
+function nav(d) { S.i = Math.max(0, Math.min(S.ids.length - 1, S.i + d)); save(); renderQ(); }
+document.addEventListener('keydown', ev => { if (!S || !$('.ans')) return; const k = ev.key.toLowerCase(); if (k === 'c') answer('C'); else if (k === 'e') answer('E'); else if (k === 'b') answer('B'); else if (ev.key === 'ArrowRight') nav(1); else if (ev.key === 'ArrowLeft') nav(-1); });
+
+function finish() {
+  const falt = S.ids.filter(n => !S.resp[n]).length;
+  if (falt && !confirm(`${falt} item(ns) sem resposta serão contados como em branco. Finalizar?`)) return;
+  save(); clearInterval(tick);
+  const res = S.ids.map(n => ({ n, r: S.resp[n] || 'B', v: judge(Q(n), S.resp[n] || 'B') }));
+  const c = v => res.filter(x => x.v === v).length;
+  const h = { data: Date.now(), exam: S.exam, titulo: S.titulo, tempo: S.elapsed, total: res.length, ac: c('ok'), er: c('bad'), br: c('bl'), an: c('x'), nota: c('ok') - c('bad'), res };
+  const hist = store.get('inss_hist', []); hist.push(h); store.set('inss_hist', hist); store.set('inss_atual', null);
+  S = null; showResult(hist.length - 1);
+}
+
+function showResult(idx) {
+  clearInterval(tick); $('#hdr').textContent = '';
+  const h = store.get('inss_hist', [])[idx]; if (!h) return goHome();
+  selExam = h.exam; const ex = exam(h.exam), q = n => ex.q.find(x => x.n === n);
+  const byD = {}; h.res.forEach(x => { const d = q(x.n).disc; byD[d] = byD[d] || {ok:0,bad:0,bl:0,x:0}; byD[d][x.v]++; });
+  const wrong = h.res.filter(x => x.v === 'bad' || x.v === 'bl').map(x => x.n);
+  const item = x => { const qq = q(x.n), g = qq.gab === 'X' ? 'ANULADO' : (qq.gab === 'C' ? 'C' : 'E');
+    return `<div class="qres ${x.v==='x'?'':x.v}" data-v="${x.v}"><div class="row meta"><b style="color:var(--ink)">Questão ${x.n}</b><span class="tag">${esc(qq.disc)}</span>${qq.assunto?`<span class="tag">${esc(qq.assunto)}</span>`:''}
+      <span>Sua resposta: <b>${x.r==='B'?'em branco':x.r}</b> · Gabarito: <b>${g}</b> · ${{ok:'✔ acerto',bad:'✘ erro',bl:'em branco',x:'anulado'}[x.v]}</span></div>
+      <details><summary>Ver enunciado</summary>${DATA.ctx[qq.c] ? `<div class="ctx">${esc(DATA.ctx[qq.c])}</div>` : ''}<div class="enun">${esc(qq.enun)}</div><a class="meta" href="${esc(qq.pdf)}#page=${qq.page}" target="_blank">Abrir PDF na página ${qq.page}</a></details>
+      ${x.v==='bad'||x.v==='bl' ? links(qq) : ''}</div>`; };
+  $('#app').innerHTML = `
+  <div class="card"><h2>Resultado · ${esc(h.titulo)}</h2><p class="meta">${new Date(h.data).toLocaleString('pt-BR')} · tempo ${fmt(h.tempo||0)}</p>
+    <div class="stats"><div class="stat ok"><b>${h.ac}</b>acertos</div><div class="stat bad"><b>${h.er}</b>erros</div><div class="stat bl"><b>${h.br}</b>em branco</div>
+      <div class="stat"><b>${h.nota}</b>nota líquida<br><span class="meta">(acertos − erros)</span></div><div class="stat"><b>${h.total-h.an ? Math.round(100*h.ac/(h.total-h.an)) : 0}%</b>aproveitamento</div></div>
+    ${h.an ? `<p class="meta">${h.an} item(ns) anulado(s) pela banca, fora da nota.</p>` : ''}
+    <div class="row" style="margin-top:10px">${wrong.length ? `<button class="pri" onclick="selExam='${h.exam}';start(${JSON.stringify(wrong)}, 'Revisão: erros e brancos de ${esc(h.titulo).replace(/'/g,'')}')">Refazer só os que errei ou deixei em branco (${wrong.length})</button>` : ''}<button onclick="goHome()">Novo simulado</button></div>
+  </div>
+  <div class="card"><h2>Desempenho por disciplina</h2><table><tr><th>Disciplina</th><th>Acertos</th><th>Erros</th><th>Brancos</th><th>Nota</th><th>Aproveitamento</th></tr>
+    ${Object.entries(byD).map(([d,v]) => { const t = v.ok+v.bad+v.bl, p = t ? Math.round(100*v.ok/t) : 0; return `<tr><td>${esc(d)}</td><td>${v.ok}</td><td>${v.bad}</td><td>${v.bl}</td><td><b>${v.ok-v.bad}</b></td><td><div class="row"><div class="bar" style="flex:1"><i style="width:${p}%"></i></div>${p}%</div></td></tr>`; }).join('')}
+  </table></div>
+  <div class="card"><h2>Questão por questão</h2>
+    <div class="row" style="margin-bottom:10px"><button onclick="filt('bad')">Só erros (${h.er})</button><button onclick="filt('bl')">Só brancos (${h.br})</button><button onclick="filt('ok')">Só acertos (${h.ac})</button><button onclick="filt('')">Todas</button></div>
+    <p class="meta">Nos erros e brancos aparecem um link de vídeo-aula (busca no YouTube) e o material de estudo (lei no Planalto ou resumo). Esses links precisam de internet; o restante do app funciona offline.</p>
+    <div id="lst">${h.res.map(item).join('')}</div></div>`;
+  window.scrollTo(0, 0);
+}
+function filt(v) { document.querySelectorAll('#lst .qres').forEach(e => e.classList.toggle('hide', !!v && e.dataset.v !== v)); }
+goHome();
+</script>
+</body>
+</html>
